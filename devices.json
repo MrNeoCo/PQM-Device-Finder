@@ -1,0 +1,5654 @@
+[
+  {
+    "Name": "IOL-B BRNL 4202-2245",
+    "S/N": "4202-2245",
+    "IP": "172.16.32.44",
+    "Last sync": "25-08-2025 11:33",
+    "Activated": "Activated",
+    "Device ID": "37",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Shiv Forging 4202 1144",
+    "S/N": "4202-1144",
+    "IP": "172.16.32.86",
+    "Last sync": "02-11-2025 15:30",
+    "Activated": "Activated",
+    "Device ID": "64",
+    "System": "Cloud"
+  },
+  {
+    "Name": "IOL-A BRNL 4202-2247",
+    "S/N": "4202-2247",
+    "IP": "172.16.32.43",
+    "Last sync": "19-11-2025 18:10",
+    "Activated": "Activated",
+    "Device ID": "36",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Chankya Diary 4202 2251",
+    "S/N": "4202-2251",
+    "IP": "172.16.32.5",
+    "Last sync": "20-11-2025 11:02",
+    "Activated": "Deactivated",
+    "Device ID": "2",
+    "System": "Cloud"
+  },
+  {
+    "Name": "M/S  BEDI STEEL UNIT PVT -3007509164",
+    "S/N": "4203-8602",
+    "IP": "172.16.35.23",
+    "Last sync": "27-11-2025 09:05",
+    "Activated": "Activated",
+    "Device ID": "130",
+    "System": "Cloud"
+  },
+  {
+    "Name": "UMG512_4203-3942 IDR TEST",
+    "S/N": "4203-3942",
+    "IP": "172.16.35.127",
+    "Last sync": "08-12-2025 13:27",
+    "Activated": "Deactivated",
+    "Device ID": "133",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Singhania INTRNL 3002809198",
+    "S/N": "4202-4666",
+    "IP": "172.16.32.61",
+    "Last sync": "13-02-2026 11:00",
+    "Activated": "Activated",
+    "Device ID": "51",
+    "System": "Cloud"
+  },
+  {
+    "Name": "AMar Raj Forging 4202 4547",
+    "S/N": "4202-4547",
+    "IP": "172.16.32.59",
+    "Last sync": "18-02-2026 17:00",
+    "Activated": "Activated",
+    "Device ID": "49",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Jyoti Industry LDH 4202 4080",
+    "S/N": "4202-4080",
+    "IP": "172.16.32.12",
+    "Last sync": "06-03-2026 06:07",
+    "Activated": "Activated",
+    "Device ID": "11",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Nikhil Goyal LDH 3007999687",
+    "S/N": "4202-6056",
+    "IP": "172.16.32.165",
+    "Last sync": "09-03-2026 12:08",
+    "Activated": "Activated",
+    "Device ID": "128",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Diana Mining 4202-5562",
+    "S/N": "4202-5562",
+    "IP": "172.16.32.135",
+    "Last sync": "14-03-2026 02:56",
+    "Activated": "Activated",
+    "Device ID": "92",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Bassi Alloys MGG-4202-1738",
+    "S/N": "4202-1738",
+    "IP": "172.16.32.8",
+    "Last sync": "20-03-2026 17:37",
+    "Activated": "Activated",
+    "Device ID": "7",
+    "System": "Cloud"
+  },
+  {
+    "Name": "APM 4202 1720",
+    "S/N": "4202-1720",
+    "IP": "172.16.32.58",
+    "Last sync": "22-03-2026 19:24",
+    "Activated": "Activated",
+    "Device ID": "48",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Jai Parvati U-II 3007510150",
+    "S/N": "4202-4077",
+    "IP": "172.16.32.101",
+    "Last sync": "23-03-2026 01:50",
+    "Activated": "Activated",
+    "Device ID": "74",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Sangeeta Tools 4202-5650",
+    "S/N": "4202-5650",
+    "IP": "172.16.32.170",
+    "Last sync": "23-03-2026 15:39",
+    "Activated": "Activated",
+    "Device ID": "116",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Bodal Chemical 3007101307",
+    "S/N": "4202-0538",
+    "IP": "172.16.32.63",
+    "Last sync": "23-03-2026 22:59",
+    "Activated": "Activated",
+    "Device ID": "53",
+    "System": "Cloud"
+  },
+  {
+    "Name": "PARVATI FORGE PVT LTD BHAGWAN P-3007510132",
+    "S/N": "4203-3950",
+    "IP": "172.16.32.100",
+    "Last sync": "24-03-2026 14:34",
+    "Activated": "Activated",
+    "Device ID": "72",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Bull Forging 3007509196",
+    "S/N": "4202-5769",
+    "IP": "172.16.32.142",
+    "Last sync": "26-03-2026 03:07",
+    "Activated": "Activated",
+    "Device ID": "97",
+    "System": "Cloud"
+  },
+  {
+    "Name": "S.R.V Steel 3003018348",
+    "S/N": "4202-4549",
+    "IP": "172.16.32.70",
+    "Last sync": "26-03-2026 11:32",
+    "Activated": "Activated",
+    "Device ID": "58",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Happy Forging Doraha 3007509219",
+    "S/N": "4202-5543",
+    "IP": "172.16.32.124",
+    "Last sync": "26-03-2026 11:52",
+    "Activated": "Activated",
+    "Device ID": "86",
+    "System": "Cloud"
+  },
+  {
+    "Name": "T.C Auto & Forging 4202-5747",
+    "S/N": "4202-5747",
+    "IP": "172.16.32.166",
+    "Last sync": "26-03-2026 11:58",
+    "Activated": "Activated",
+    "Device ID": "113",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Jogindera Casting 3002309506",
+    "S/N": "4202-4069",
+    "IP": "172.16.32.130",
+    "Last sync": "26-03-2026 22:37",
+    "Activated": "Activated",
+    "Device ID": "89",
+    "System": "Cloud"
+  },
+  {
+    "Name": "PL GOEL STEELS PVT LTD- 3008351409",
+    "S/N": "4204-2141",
+    "IP": "172.16.35.121",
+    "Last sync": "27-03-2026 23:01",
+    "Activated": "Activated",
+    "Device ID": "131",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Broadway Overseas LTD",
+    "S/N": "4202-5743",
+    "IP": "172.16.32.146",
+    "Last sync": "28-03-2026 08:59",
+    "Activated": "Activated",
+    "Device ID": "99",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Rudra Alloys 300860562",
+    "S/N": "4202-4656",
+    "IP": "172.16.32.46",
+    "Last sync": "28-03-2026 14:09",
+    "Activated": "Activated",
+    "Device ID": "39",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Pye Tools LDH 4202 5358",
+    "S/N": "4202-5358",
+    "IP": "172.16.32.108",
+    "Last sync": "28-03-2026 14:14",
+    "Activated": "Activated",
+    "Device ID": "79",
+    "System": "Cloud"
+  },
+  {
+    "Name": "King Export 4202-6141",
+    "S/N": "4202-6141",
+    "IP": "172.16.32.151",
+    "Last sync": "28-03-2026 15:30",
+    "Activated": "Activated",
+    "Device ID": "104",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Durga MultiMetal 3002309526",
+    "S/N": "4202-2234",
+    "IP": "172.16.32.6",
+    "Last sync": "28-03-2026 18:41",
+    "Activated": "Activated",
+    "Device ID": "5",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Bihari Lal MGG 3007509298",
+    "S/N": "4202-5527",
+    "IP": "172.16.32.111",
+    "Last sync": "28-03-2026 20:35",
+    "Activated": "Activated",
+    "Device ID": "81",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Surindera Cycles 3002809653",
+    "S/N": "4202-5861",
+    "IP": "172.16.32.190",
+    "Last sync": "28-03-2026 23:07",
+    "Activated": "Activated",
+    "Device ID": "125",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Surya Steel 3002309517",
+    "S/N": "4202-1703",
+    "IP": "172.16.32.35",
+    "Last sync": "29-03-2026 01:02",
+    "Activated": "Activated",
+    "Device ID": "29",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Happy forging U-II 3003017997",
+    "S/N": "4202-5542",
+    "IP": "172.16.32.105",
+    "Last sync": "29-03-2026 01:06",
+    "Activated": "Activated",
+    "Device ID": "76",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Samana Concast-3002309778",
+    "S/N": "4202-5646",
+    "IP": "172.16.32.94",
+    "Last sync": "29-03-2026 01:16",
+    "Activated": "Activated",
+    "Device ID": "68",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Chopra Alloys 3002309701",
+    "S/N": "4202-4078",
+    "IP": "172.16.32.24",
+    "Last sync": "29-03-2026 04:59",
+    "Activated": "Activated",
+    "Device ID": "19",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Aarti Steel Machiwara- 3008358000",
+    "S/N": "4202-5361",
+    "IP": "172.16.32.45",
+    "Last sync": "29-03-2026 05:24",
+    "Activated": "Activated",
+    "Device ID": "38",
+    "System": "Cloud"
+  },
+  {
+    "Name": "TK Steel R74-KR01-00221",
+    "S/N": "4202-2217",
+    "IP": "172.16.32.29",
+    "Last sync": "29-03-2026 10:11",
+    "Activated": "Activated",
+    "Device ID": "23",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Hawkins Cookers 3000855129",
+    "S/N": "4202-5544",
+    "IP": "172.16.32.141",
+    "Last sync": "29-03-2026 13:47",
+    "Activated": "Activated",
+    "Device ID": "96",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Vimal Alloys 3007509287",
+    "S/N": "4202-5564",
+    "IP": "172.16.32.78",
+    "Last sync": "29-03-2026 15:29",
+    "Activated": "Activated",
+    "Device ID": "61",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Ambey Indus 4202-2252",
+    "S/N": "4202-2252",
+    "IP": "172.16.32.40",
+    "Last sync": "29-03-2026 15:30",
+    "Activated": "Activated",
+    "Device ID": "34",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Vardhman Spl Steel LDH 3002808910",
+    "S/N": "4202-4068",
+    "IP": "172.16.32.115",
+    "Last sync": "29-03-2026 15:30",
+    "Activated": "Activated",
+    "Device ID": "83",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Santokh Singh 4202-5557",
+    "S/N": "4202-5557",
+    "IP": "172.16.32.126",
+    "Last sync": "29-03-2026 15:30",
+    "Activated": "Activated",
+    "Device ID": "88",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Varun Steel Casting 3002309516",
+    "S/N": "4202-4079",
+    "IP": "172.16.32.39",
+    "Last sync": "29-03-2026 16:08",
+    "Activated": "Activated",
+    "Device ID": "31",
+    "System": "Cloud"
+  },
+  {
+    "Name": "A.K Concast 4202-5739",
+    "S/N": "4202-5739",
+    "IP": "172.16.32.92",
+    "Last sync": "30-03-2026 00:34",
+    "Activated": "Activated",
+    "Device ID": "66",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Madhav Akalgarh 3008227525",
+    "S/N": "4202-0543",
+    "IP": "172.16.32.73",
+    "Last sync": "29-03-2026 22:00",
+    "Activated": "Activated",
+    "Device ID": "32",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Madhav KRG ENVIRO - 3007509307",
+    "S/N": "4202-0541",
+    "IP": "172.16.32.41",
+    "Last sync": "29-03-2026 22:00",
+    "Activated": "Activated",
+    "Device ID": "33",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Chamunda Multimetal 4202-5378",
+    "S/N": "4202-5378",
+    "IP": "172.16.32.93",
+    "Last sync": "29-03-2026 22:00",
+    "Activated": "Activated",
+    "Device ID": "67",
+    "System": "Cloud"
+  },
+  {
+    "Name": "PP Casting UMG 4202-4583",
+    "S/N": "4202-4583",
+    "IP": "172.16.32.66",
+    "Last sync": "29-03-2026 22:00",
+    "Activated": "Activated",
+    "Device ID": "56",
+    "System": "Cloud"
+  },
+  {
+    "Name": "TPI RAJPURA 3004860022",
+    "S/N": "4202-5754",
+    "IP": "172.16.32.64",
+    "Last sync": "29-03-2026 22:00",
+    "Activated": "Activated",
+    "Device ID": "54",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Devinder Dhillon 4202-7389",
+    "S/N": "4202-7389",
+    "IP": "172.16.32.160",
+    "Last sync": "29-03-2026 22:01",
+    "Activated": "Activated",
+    "Device ID": "109",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Harpreet Industries LDH 3002809509",
+    "S/N": "4202-5359",
+    "IP": "172.16.32.107",
+    "Last sync": "29-03-2026 22:01",
+    "Activated": "Activated",
+    "Device ID": "78",
+    "System": "Cloud"
+  },
+  {
+    "Name": "PRIME STEELS R74-KR01-00055",
+    "S/N": "4202-2228",
+    "IP": "172.16.32.28",
+    "Last sync": "29-03-2026 22:01",
+    "Activated": "Activated",
+    "Device ID": "22",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Rasik Indus 4202-2253",
+    "S/N": "4202-2253",
+    "IP": "172.16.32.31",
+    "Last sync": "29-03-2026 22:01",
+    "Activated": "Activated",
+    "Device ID": "25",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Shree Ganesh Alloys 3002309791",
+    "S/N": "4202-5367",
+    "IP": "172.16.32.65",
+    "Last sync": "29-03-2026 22:02",
+    "Activated": "Activated",
+    "Device ID": "55",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Sajan Precision Casting 4202-5871",
+    "S/N": "4202-5871",
+    "IP": "172.16.32.161",
+    "Last sync": "29-03-2026 22:02",
+    "Activated": "Activated",
+    "Device ID": "110",
+    "System": "Cloud"
+  },
+  {
+    "Name": "NSP STEELS-3009062787",
+    "S/N": "4204-1481",
+    "IP": "172.16.32.112",
+    "Last sync": "29-03-2026 22:02",
+    "Activated": "Activated",
+    "Device ID": "132",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Gold Star Indus LDH-3002809482",
+    "S/N": "4202-4617",
+    "IP": "172.16.32.184",
+    "Last sync": "29-03-2026 22:02",
+    "Activated": "Activated",
+    "Device ID": "123",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Salasar Casting 4202-0542",
+    "S/N": "4202-0542",
+    "IP": "172.16.32.4",
+    "Last sync": "29-03-2026 22:03",
+    "Activated": "Activated",
+    "Device ID": "3",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Rosha Alloys MGG 4202 4055",
+    "S/N": "4202-4055",
+    "IP": "172.16.32.60",
+    "Last sync": "29-03-2026 22:03",
+    "Activated": "Activated",
+    "Device ID": "50",
+    "System": "Cloud"
+  },
+  {
+    "Name": "PACL 3000185776",
+    "S/N": "4202-0540",
+    "IP": "172.16.32.19",
+    "Last sync": "29-03-2026 22:03",
+    "Activated": "Activated",
+    "Device ID": "16",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Shree Ganesh Edible 4202-2248",
+    "S/N": "4202-2248",
+    "IP": "172.16.32.55",
+    "Last sync": "29-03-2026 22:03",
+    "Activated": "Activated",
+    "Device ID": "45",
+    "System": "Cloud"
+  },
+  {
+    "Name": "AK Incast 4202-5517",
+    "S/N": "4202-5517",
+    "IP": "172.16.32.67",
+    "Last sync": "29-03-2026 22:03",
+    "Activated": "Activated",
+    "Device ID": "57",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Jagat Metal MGG 3002309512",
+    "S/N": "4202-4602",
+    "IP": "172.16.32.102",
+    "Last sync": "29-03-2026 22:04",
+    "Activated": "Activated",
+    "Device ID": "73",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Delux Mechanical P Ltd 3003018355",
+    "S/N": "4202-5772",
+    "IP": "172.16.32.196",
+    "Last sync": "29-03-2026 22:04",
+    "Activated": "Activated",
+    "Device ID": "126",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Trishala Alloys 4202 1739",
+    "S/N": "4202-1739",
+    "IP": "172.16.32.17",
+    "Last sync": "29-03-2026 22:08",
+    "Activated": "Activated",
+    "Device ID": "14",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Hindon Metaform U2-3004776373",
+    "S/N": "4202-4609",
+    "IP": "172.16.32.186",
+    "Last sync": "29-03-2026 22:09",
+    "Activated": "Activated",
+    "Device ID": "124",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Vardhman Adarsh",
+    "S/N": "4202-2250",
+    "IP": "172.16.32.2",
+    "Last sync": "29-03-2026 22:10",
+    "Activated": "Activated",
+    "Device ID": "4",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Radiant Industry 3003018150",
+    "S/N": "4202-6143",
+    "IP": "172.16.32.168",
+    "Last sync": "29-03-2026 23:59",
+    "Activated": "Activated",
+    "Device ID": "115",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Shree Ram Multimetals 3002309538",
+    "S/N": "4202-9684",
+    "IP": "172.16.32.172",
+    "Last sync": "29-03-2026 23:59",
+    "Activated": "Activated",
+    "Device ID": "118",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Shiva Alloys 4202-5858",
+    "S/N": "4202-5858",
+    "IP": "172.16.32.152",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "105",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Kisco Casting 3002309643",
+    "S/N": "4203-0396",
+    "IP": "172.16.32.171",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "117",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Aman Cycle 4202-5524",
+    "S/N": "4202-5524",
+    "IP": "172.16.32.173",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "119",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Gurwinder Pal Singh 4202-5872",
+    "S/N": "4202-5872",
+    "IP": "172.16.32.162",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "111",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Alwar Alloys 4202-5519",
+    "S/N": "4202-5519",
+    "IP": "172.16.32.167",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "114",
+    "System": "Cloud"
+  },
+  {
+    "Name": "DMK Cast 3003018089",
+    "S/N": "4202-6136",
+    "IP": "172.16.32.175",
+    "Last sync": "30-03-2026 00:01",
+    "Activated": "Activated",
+    "Device ID": "120",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Happy Axle-Gear 3005889355",
+    "S/N": "4202-5531",
+    "IP": "172.16.32.178",
+    "Last sync": "30-03-2026 00:02",
+    "Activated": "Activated",
+    "Device ID": "122",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Arjas Modern Steels 3009210940",
+    "S/N": "4202-6060",
+    "IP": "172.16.32.158",
+    "Last sync": "30-03-2026 00:03",
+    "Activated": "Activated",
+    "Device ID": "108",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Mahindra Swaraj Foundry R62-MR01-00006",
+    "S/N": "4202-7394",
+    "IP": "172.16.32.164",
+    "Last sync": "30-03-2026 00:08",
+    "Activated": "Activated",
+    "Device ID": "112",
+    "System": "Cloud"
+  },
+  {
+    "Name": "CSM Casting 3008094334",
+    "S/N": "4202-4651",
+    "IP": "172.16.32.33",
+    "Last sync": "30-03-2026 00:12",
+    "Activated": "Activated",
+    "Device ID": "27",
+    "System": "Cloud"
+  },
+  {
+    "Name": "AK Multimetals 4202-5740",
+    "S/N": "4202-5740",
+    "IP": "172.16.32.153",
+    "Last sync": "30-03-2026 00:12",
+    "Activated": "Activated",
+    "Device ID": "106",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Waryam Steel LDH 3003017992",
+    "S/N": "4202-2249",
+    "IP": "172.16.32.9",
+    "Last sync": "30-03-2026 00:23",
+    "Activated": "Activated",
+    "Device ID": "8",
+    "System": "Cloud"
+  },
+  {
+    "Name": "RN GUPTA 4202-4548",
+    "S/N": "4202-4548",
+    "IP": "172.16.32.32",
+    "Last sync": "30-03-2026 00:29",
+    "Activated": "Activated",
+    "Device ID": "26",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Monga Bros 4202-4664",
+    "S/N": "4202-4664",
+    "IP": "172.16.32.54",
+    "Last sync": "30-03-2026 00:59",
+    "Activated": "Activated",
+    "Device ID": "44",
+    "System": "Cloud"
+  },
+  {
+    "Name": "LSR Forge LDH 4202 2243",
+    "S/N": "4202-2243",
+    "IP": "172.16.32.10",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "9",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Dashmesh Cast MGG 4202 0544",
+    "S/N": "4202-0544",
+    "IP": "172.16.32.13",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "12",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Garg Furnance 4202-2244",
+    "S/N": "4202-2244",
+    "IP": "172.16.32.22",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "18",
+    "System": "Cloud"
+  },
+  {
+    "Name": "HL Chopra 3002309691",
+    "S/N": "4202-1699",
+    "IP": "172.16.32.25",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "20",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Punjab Steel A-MGG 3002309514",
+    "S/N": "4202-4544",
+    "IP": "172.16.32.51",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "41",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Sharu Special Alloy 3002809743",
+    "S/N": "4202-5360",
+    "IP": "172.16.32.49",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "43",
+    "System": "Cloud"
+  },
+  {
+    "Name": "G O STEEL 4202-4543",
+    "S/N": "4202-4543",
+    "IP": "172.16.32.56",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "46",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Ganga Cast UMG 3007509297",
+    "S/N": "4202-4603",
+    "IP": "172.16.32.82",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "62",
+    "System": "Cloud"
+  },
+  {
+    "Name": "SS CONCAST U-3 4202 4552",
+    "S/N": "4202-4552",
+    "IP": "172.16.32.26",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "21",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Euro Cast & Forge 3003018086",
+    "S/N": "4202-2216",
+    "IP": "172.16.32.47",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "40",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Rajdhani Casting 3005332909",
+    "S/N": "4202-6140",
+    "IP": "172.16.32.95",
+    "Last sync": "30-03-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "69",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Sunshine Metal 4202-4668",
+    "S/N": "4202-4668",
+    "IP": "172.16.32.42",
+    "Last sync": "30-03-2026 01:01",
+    "Activated": "Activated",
+    "Device ID": "35",
+    "System": "Cloud"
+  },
+  {
+    "Name": "GSA Indus U-I P42RT0100002",
+    "S/N": "4202-5866",
+    "IP": "172.16.32.97",
+    "Last sync": "30-03-2026 01:01",
+    "Activated": "Activated",
+    "Device ID": "70",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Atul Mehta 3005209972",
+    "S/N": "4202-4615",
+    "IP": "172.16.32.76",
+    "Last sync": "30-03-2026 01:01",
+    "Activated": "Activated",
+    "Device ID": "60",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Addi Alloys 3003018329",
+    "S/N": "4202-5623",
+    "IP": "172.16.32.87",
+    "Last sync": "30-03-2026 01:01",
+    "Activated": "Activated",
+    "Device ID": "65",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Osho Forge 3003018332",
+    "S/N": "4202-5553",
+    "IP": "172.16.32.98",
+    "Last sync": "30-03-2026 01:01",
+    "Activated": "Activated",
+    "Device ID": "71",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Arora Steel LDH 4202 1736",
+    "S/N": "4202-1736",
+    "IP": "172.16.32.11",
+    "Last sync": "30-03-2026 01:01",
+    "Activated": "Activated",
+    "Device ID": "10",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Punjab Steel Forge-Khanna 3002309507",
+    "S/N": "4202-1701",
+    "IP": "172.16.32.14",
+    "Last sync": "30-03-2026 01:02",
+    "Activated": "Activated",
+    "Device ID": "13",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Sharu Industry LDH 3002809671",
+    "S/N": "4202-4149",
+    "IP": "172.16.32.30",
+    "Last sync": "30-03-2026 01:02",
+    "Activated": "Activated",
+    "Device ID": "24",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Vital Steel 4202-0536",
+    "S/N": "4202-0536",
+    "IP": "172.16.32.18",
+    "Last sync": "30-03-2026 01:02",
+    "Activated": "Activated",
+    "Device ID": "15",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Baum Forge 3015009278",
+    "S/N": "4202-1148",
+    "IP": "172.16.32.57",
+    "Last sync": "30-03-2026 01:02",
+    "Activated": "Activated",
+    "Device ID": "47",
+    "System": "Cloud"
+  },
+  {
+    "Name": "MK ALLOYS 4202-5382",
+    "S/N": "4202-5382",
+    "IP": "172.16.32.52",
+    "Last sync": "30-03-2026 01:02",
+    "Activated": "Activated",
+    "Device ID": "42",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Happy Forging Machine Div. 3003018016",
+    "S/N": "4202-5541",
+    "IP": "172.16.32.106",
+    "Last sync": "30-03-2026 01:02",
+    "Activated": "Activated",
+    "Device ID": "77",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Souvinor C/o Ravinder 3003018250",
+    "S/N": "4202-1346",
+    "IP": "172.16.32.38",
+    "Last sync": "30-03-2026 01:03",
+    "Activated": "Activated",
+    "Device ID": "30",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Fern techno MGG 4202-6104",
+    "S/N": "4202-6104",
+    "IP": "172.16.32.104",
+    "Last sync": "30-03-2026 01:03",
+    "Activated": "Activated",
+    "Device ID": "75",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Ranjan Madaan LDH 3002809933",
+    "S/N": "4202-5555",
+    "IP": "172.16.32.109",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "80",
+    "System": "Cloud"
+  },
+  {
+    "Name": "HUL 4202-5874",
+    "S/N": "4202-5874",
+    "IP": "172.16.32.149",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "103",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Menka Indus LDH 3003018353",
+    "S/N": "4202-1291",
+    "IP": "172.16.32.121",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "85",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Ludhiana Steel Rolling Mill FP LDH 4202-4662",
+    "S/N": "4202-4662",
+    "IP": "172.16.32.125",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "87",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Usha Martin 3000855128",
+    "S/N": "4202-4657",
+    "IP": "172.16.32.148",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "102",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Panama Alloys LDH 4202-5554",
+    "S/N": "4202-5554",
+    "IP": "172.16.32.134",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "91",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Kanha Concast 4202-5645",
+    "S/N": "4202-5645",
+    "IP": "172.16.32.154",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "107",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Mohamad Punjab Steel LDH 4202-5856",
+    "S/N": "4202-5856",
+    "IP": "172.16.32.137",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "93",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Sun-Pharma 3003349967",
+    "S/N": "4202-0539",
+    "IP": "172.16.32.147",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "100",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Hind Alloys 4202-4654",
+    "S/N": "4202-4654",
+    "IP": "172.16.32.34",
+    "Last sync": "30-03-2026 03:06",
+    "Activated": "Activated",
+    "Device ID": "28",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Upma Madaan LDH 4202-5556",
+    "S/N": "4202-5556",
+    "IP": "172.16.32.110",
+    "Last sync": "30-03-2026 03:06",
+    "Activated": "Activated",
+    "Device ID": "82",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Bansal Alloys & Metals 3002309502",
+    "S/N": "4202-1150",
+    "IP": "172.16.32.131",
+    "Last sync": "30-03-2026 03:06",
+    "Activated": "Activated",
+    "Device ID": "90",
+    "System": "Cloud"
+  },
+  {
+    "Name": "Mahajan Engg Works R74-KR01-00193",
+    "S/N": "4202-6118",
+    "IP": "172.16.32.140",
+    "Last sync": "30-03-2026 03:06",
+    "Activated": "Activated",
+    "Device ID": "95",
+    "System": "Cloud"
+  },
+  {
+    "Name": "PS Engineering 4202-6097",
+    "S/N": "4202-6097",
+    "IP": "172.16.32.123",
+    "Last sync": "30-03-2026 03:06",
+    "Activated": "Activated",
+    "Device ID": "101",
+    "System": "Cloud"
+  },
+  {
+    "Name": "MODREN ENGINEERS- 3007608560",
+    "S/N": "4203-2378",
+    "IP": "172.16.33.101",
+    "Last sync": "08-01-2025 01:46",
+    "Activated": "Activated",
+    "Device ID": "94",
+    "System": "PC 3"
+  },
+  {
+    "Name": "TALASHRI STEELS PVT LTD-3015039063",
+    "S/N": "4203-3883",
+    "IP": "172.16.33.89",
+    "Last sync": "09-01-2025 14:41",
+    "Activated": "Activated",
+    "Device ID": "112",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHARANJEET SINGH BHAMRAH-3007987868",
+    "S/N": "4203-4013",
+    "IP": "172.16.33.10",
+    "Last sync": "12-01-2025 09:47",
+    "Activated": "Activated",
+    "Device ID": "135",
+    "System": "PC 3"
+  },
+  {
+    "Name": "J.K. INDUSTRIES-3007509208",
+    "S/N": "4203-4753",
+    "IP": "172.16.33.105",
+    "Last sync": "21-01-2025 16:13",
+    "Activated": "Activated",
+    "Device ID": "90",
+    "System": "PC 3"
+  },
+  {
+    "Name": "H. R INDUSTRY-3003022242",
+    "S/N": "4202-6101",
+    "IP": "172.16.33.163",
+    "Last sync": "02-04-2025 08:13",
+    "Activated": "Activated",
+    "Device ID": "34",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Harjit Kaur_3008099749",
+    "S/N": "4203-2379",
+    "IP": "172.16.35.12",
+    "Last sync": "26-05-2025 11:54",
+    "Activated": "Activated",
+    "Device ID": "8",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHIVAM AUTO IND-3002957256",
+    "S/N": "4203-3261",
+    "IP": "172.16.35.13",
+    "Last sync": "26-05-2025 13:24",
+    "Activated": "Activated",
+    "Device ID": "27",
+    "System": "PC 3"
+  },
+  {
+    "Name": "HAPPY MACHINE TOOLS - 3003018033",
+    "S/N": "4202-6062",
+    "IP": "172.16.33.166",
+    "Last sync": "28-05-2025 02:41",
+    "Activated": "Activated",
+    "Device ID": "32",
+    "System": "PC 3"
+  },
+  {
+    "Name": "TRL ALLOYS PVT LTD- 3008384217",
+    "S/N": "4203-4459",
+    "IP": "172.16.33.128",
+    "Last sync": "29-06-2025 22:36",
+    "Activated": "Activated",
+    "Device ID": "84",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SPICE FLO EXPORT PVT LTD-",
+    "S/N": "4203-3306",
+    "IP": "172.16.33.103",
+    "Last sync": "08-07-2025 02:20",
+    "Activated": "Activated",
+    "Device ID": "109",
+    "System": "PC 3"
+  },
+  {
+    "Name": "TEJINDER PAL SINGH-  3008333194",
+    "S/N": "4203-3152",
+    "IP": "172.16.33.116",
+    "Last sync": "21-07-2025 16:50",
+    "Activated": "Activated",
+    "Device ID": "111",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Maa Ambica Industries X32LS0100035",
+    "S/N": "4203-3814",
+    "IP": "172.16.33.136",
+    "Last sync": "02-08-2025 03:30",
+    "Activated": "Activated",
+    "Device ID": "67",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Padma Bhavam Engineers -R74KR0200266",
+    "S/N": "4203-3089",
+    "IP": "172.16.32.234",
+    "Last sync": "14-08-2025 04:50",
+    "Activated": "Activated",
+    "Device ID": "122",
+    "System": "PC 3"
+  },
+  {
+    "Name": "NIRMAL KAUR- 3002958272",
+    "S/N": "4203-6595",
+    "IP": "172.16.35.15",
+    "Last sync": "20-08-2025 12:17",
+    "Activated": "Activated",
+    "Device ID": "20",
+    "System": "PC 3"
+  },
+  {
+    "Name": "JIWAN UDYOG-3003018126",
+    "S/N": "4203-4014",
+    "IP": "172.16.33.253",
+    "Last sync": "21-08-2025 19:51",
+    "Activated": "Activated",
+    "Device ID": "116",
+    "System": "PC 3"
+  },
+  {
+    "Name": "G. FORGE INDIA- R74-KR02-00111",
+    "S/N": "4203-2955",
+    "IP": "172.16.33.114",
+    "Last sync": "26-08-2025 01:20",
+    "Activated": "Activated",
+    "Device ID": "85",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KS MECHANICAL WORKS-3002809013",
+    "S/N": "4203-3833",
+    "IP": "172.16.33.76",
+    "Last sync": "06-09-2025 05:10",
+    "Activated": "Activated",
+    "Device ID": "92",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Inderjit_AS_Alloys- 3005904586",
+    "S/N": "4203-6235",
+    "IP": "172.16.33.190",
+    "Last sync": "14-09-2025 10:04",
+    "Activated": "Activated",
+    "Device ID": "35",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Worldwide Products-2 3002309564",
+    "S/N": "4202-6055",
+    "IP": "172.16.32.194",
+    "Last sync": "18-11-2025 06:07",
+    "Activated": "Deactivated",
+    "Device ID": "152",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Worldwide Products 3002802054",
+    "S/N": "4202-7379",
+    "IP": "172.16.32.193",
+    "Last sync": "25-11-2025 06:34",
+    "Activated": "Deactivated",
+    "Device ID": "153",
+    "System": "PC 3"
+  },
+  {
+    "Name": "NAMDEVFORGE PVT LTD-3007789773",
+    "S/N": "4202-4059",
+    "IP": "172.16.33.148",
+    "Last sync": "11-12-2025 14:21",
+    "Activated": "Activated",
+    "Device ID": "75",
+    "System": "PC 3"
+  },
+  {
+    "Name": "HARMINDER KAUR - 3003018168",
+    "S/N": "4203-3292",
+    "IP": "172.16.35.14",
+    "Last sync": "23-12-2025 07:30",
+    "Activated": "Activated",
+    "Device ID": "9",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KUMAR EXPORTS - 3007509189",
+    "S/N": "4204-1452",
+    "IP": "172.16.33.15",
+    "Last sync": "26-12-2025 13:56",
+    "Activated": "Deactivated",
+    "Device ID": "171",
+    "System": "PC 3"
+  },
+  {
+    "Name": "VISHWAKARMA UDYOG-3015021706",
+    "S/N": "4203-3994",
+    "IP": "172.16.33.123",
+    "Last sync": "08-01-2026 01:00",
+    "Activated": "Activated",
+    "Device ID": "104",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SATISH KUMAR- 3008266191",
+    "S/N": "4202-9700",
+    "IP": "172.16.35.8",
+    "Last sync": "14-01-2026 13:38",
+    "Activated": "Activated",
+    "Device ID": "26",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SUPREET KAUR MAKKAR -3004676479",
+    "S/N": "4203-6236",
+    "IP": "172.16.33.195",
+    "Last sync": "21-01-2026 16:12",
+    "Activated": "Activated",
+    "Device ID": "58",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RAMSETU SCAFFOLDING- 3008331930",
+    "S/N": "4203-6206",
+    "IP": "172.16.33.186",
+    "Last sync": "28-01-2026 13:59",
+    "Activated": "Activated",
+    "Device ID": "51",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SATNAM FORGE (P) LTD-3002809122",
+    "S/N": "4203-3837",
+    "IP": "172.16.33.79",
+    "Last sync": "12-02-2026 07:12",
+    "Activated": "Activated",
+    "Device ID": "107",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Rajinder Kumar R74-KR-01-00227",
+    "S/N": "4203-0532",
+    "IP": "172.16.32.202",
+    "Last sync": "19-02-2026 15:59",
+    "Activated": "Activated",
+    "Device ID": "150",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Panju Agrotech PVT LTD- U44LK0200064",
+    "S/N": "4203-3946",
+    "IP": "172.16.33.125",
+    "Last sync": "28-02-2026 17:53",
+    "Activated": "Activated",
+    "Device ID": "98",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Metal & Plastic P Ltd 4202-6075",
+    "S/N": "4202-6075",
+    "IP": "172.16.32.157",
+    "Last sync": "14-03-2026 04:10",
+    "Activated": "Activated",
+    "Device ID": "145",
+    "System": "PC 3"
+  },
+  {
+    "Name": "IRON SHAPE INDUSTRIES-3007509635",
+    "S/N": "4203-1059",
+    "IP": "172.16.33.108",
+    "Last sync": "14-03-2026 06:39",
+    "Activated": "Activated",
+    "Device ID": "86",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MANMEET KAUR- 3008715487",
+    "S/N": "4203-5417",
+    "IP": "172.16.35.11",
+    "Last sync": "15-03-2026 04:58",
+    "Activated": "Activated",
+    "Device ID": "16",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Sharu Steel Focal P LDH 3002809650",
+    "S/N": "4202-5339",
+    "IP": "172.16.32.177",
+    "Last sync": "15-03-2026 11:07",
+    "Activated": "Activated",
+    "Device ID": "155",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Vennu Gupta-3004877400",
+    "S/N": "4202-4670",
+    "IP": "172.16.32.223",
+    "Last sync": "15-03-2026 18:56",
+    "Activated": "Activated",
+    "Device ID": "138",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KPD ALLOYS-3008683249",
+    "S/N": "4203-4173",
+    "IP": "172.16.32.250",
+    "Last sync": "16-03-2026 11:15",
+    "Activated": "Activated",
+    "Device ID": "43",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MAHADEVA ALLOYS-3002309736",
+    "S/N": "4203-4021",
+    "IP": "172.16.33.130",
+    "Last sync": "16-03-2026 13:00",
+    "Activated": "Activated",
+    "Device ID": "66",
+    "System": "PC 3"
+  },
+  {
+    "Name": "GNA DRIVELINES- N36RK0100014",
+    "S/N": "4203-1060",
+    "IP": "172.16.32.50",
+    "Last sync": "17-03-2026 00:02",
+    "Activated": "Activated",
+    "Device ID": "172",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Narindra Casting-3005023923",
+    "S/N": "4202-6096",
+    "IP": "172.16.32.213",
+    "Last sync": "17-03-2026 19:13",
+    "Activated": "Activated",
+    "Device ID": "149",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Mahalakshmi Steel LDH R74-KR01-00158",
+    "S/N": "4202-5342",
+    "IP": "172.16.32.120",
+    "Last sync": "21-03-2026 12:30",
+    "Activated": "Activated",
+    "Device ID": "165",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Maruti Alloys 3005097643",
+    "S/N": "4202-5379",
+    "IP": "172.16.32.197",
+    "Last sync": "22-03-2026 07:04",
+    "Activated": "Activated",
+    "Device ID": "143",
+    "System": "PC 3"
+  },
+  {
+    "Name": "JAIKARA FASTENERS - 3005079207",
+    "S/N": "4203-3159",
+    "IP": "172.16.33.174",
+    "Last sync": "22-03-2026 23:01",
+    "Activated": "Activated",
+    "Device ID": "33",
+    "System": "PC 3"
+  },
+  {
+    "Name": "METRO TOOL INDUSTRIES-3008473955",
+    "S/N": "4203-7141",
+    "IP": "172.16.33.189",
+    "Last sync": "25-03-2026 17:04",
+    "Activated": "Activated",
+    "Device ID": "62",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RAJDHANI IRON PRODUCTS PVT LTD-3002309785",
+    "S/N": "4203-3846",
+    "IP": "172.16.33.87",
+    "Last sync": "26-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "100",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHIVANSHAKTI ALLOYS PVT. LTD-4203-6083",
+    "S/N": "4203-6083",
+    "IP": "172.16.33.250",
+    "Last sync": "26-03-2026 08:29",
+    "Activated": "Activated",
+    "Device ID": "23",
+    "System": "PC 3"
+  },
+  {
+    "Name": "JASVIR SINGH -3000855622",
+    "S/N": "4203-7246",
+    "IP": "172.16.33.196",
+    "Last sync": "26-03-2026 11:18",
+    "Activated": "Activated",
+    "Device ID": "36",
+    "System": "PC 3"
+  },
+  {
+    "Name": "INDRA HEAT TREATMENT CENTRE- 3003018307",
+    "S/N": "4202-6072",
+    "IP": "172.16.35.20",
+    "Last sync": "26-03-2026 11:18",
+    "Activated": "Activated",
+    "Device ID": "10",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SARDARA SINGH- N34GS2200014",
+    "S/N": "4203-3879",
+    "IP": "172.16.33.249",
+    "Last sync": "27-03-2026 02:02",
+    "Activated": "Activated",
+    "Device ID": "22",
+    "System": "PC 3"
+  },
+  {
+    "Name": "R.N  GUPTA $ CO LTD -3007509183",
+    "S/N": "4203-5438",
+    "IP": "172.16.33.143",
+    "Last sync": "27-03-2026 10:07",
+    "Activated": "Activated",
+    "Device ID": "76",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHARP ENGINEERS- 3004736249",
+    "S/N": "4203-5432",
+    "IP": "172.16.33.168",
+    "Last sync": "27-03-2026 11:41",
+    "Activated": "Activated",
+    "Device ID": "57",
+    "System": "PC 3"
+  },
+  {
+    "Name": "GURU NANAK AUTO ENTERPRISES- N36RK0100006",
+    "S/N": "4203-3945",
+    "IP": "172.16.33.243",
+    "Last sync": "27-03-2026 12:15",
+    "Activated": "Activated",
+    "Device ID": "4",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KANIKA FASTENERS PVT. LTD- 3007767671",
+    "S/N": "4203-4457",
+    "IP": "172.16.35.17",
+    "Last sync": "27-03-2026 12:15",
+    "Activated": "Activated",
+    "Device ID": "15",
+    "System": "PC 3"
+  },
+  {
+    "Name": "OLIVER ENGINEERING PVT LTD-  3002310071",
+    "S/N": "4203-7132",
+    "IP": "172.16.33.185",
+    "Last sync": "27-03-2026 12:15",
+    "Activated": "Activated",
+    "Device ID": "49",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MOULIK TECHNOCAST PVT. LTD -3005958179",
+    "S/N": "4203-6538",
+    "IP": "172.16.33.198",
+    "Last sync": "27-03-2026 12:18",
+    "Activated": "Activated",
+    "Device ID": "42",
+    "System": "PC 3"
+  },
+  {
+    "Name": "HAMCO POWER VENTURE PVT. LTD- 3003012656",
+    "S/N": "4203-8488",
+    "IP": "172.16.35.21",
+    "Last sync": "27-03-2026 12:19",
+    "Activated": "Activated",
+    "Device ID": "11",
+    "System": "PC 3"
+  },
+  {
+    "Name": "JVR ENTERPRISES-   3007776582",
+    "S/N": "4203-6056",
+    "IP": "172.16.33.177",
+    "Last sync": "27-03-2026 12:20",
+    "Activated": "Activated",
+    "Device ID": "31",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHRI GANPATI BODY BUILDERS - 3004837113",
+    "S/N": "4202-5859",
+    "IP": "172.16.33.201",
+    "Last sync": "28-03-2026 06:14",
+    "Activated": "Activated",
+    "Device ID": "59",
+    "System": "PC 3"
+  },
+  {
+    "Name": "M.G. TRADING CO.-3004999966",
+    "S/N": "4203-7367",
+    "IP": "172.16.33.225",
+    "Last sync": "28-03-2026 08:49",
+    "Activated": "Activated",
+    "Device ID": "13",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KL ALLOYS 4202-5381",
+    "S/N": "4202-5381",
+    "IP": "172.16.32.116",
+    "Last sync": "28-03-2026 08:50",
+    "Activated": "Activated",
+    "Device ID": "146",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KUBER GLASSES-3008191549",
+    "S/N": "4203-1006",
+    "IP": "172.16.35.10",
+    "Last sync": "28-03-2026 11:09",
+    "Activated": "Activated",
+    "Device ID": "95",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RAJ KUMAR-3002957622",
+    "S/N": "4203-2392",
+    "IP": "172.16.33.2",
+    "Last sync": "28-03-2026 13:09",
+    "Activated": "Activated",
+    "Device ID": "131",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MODI CONCAST PVT LTD-3002309805",
+    "S/N": "4203-3087",
+    "IP": "172.16.33.83",
+    "Last sync": "28-03-2026 14:56",
+    "Activated": "Activated",
+    "Device ID": "91",
+    "System": "PC 3"
+  },
+  {
+    "Name": "GURU NANAK AUTO ENTERPRISES LTD- N36RK0100004",
+    "S/N": "4203-3937",
+    "IP": "172.16.33.246",
+    "Last sync": "28-03-2026 15:21",
+    "Activated": "Activated",
+    "Device ID": "5",
+    "System": "PC 3"
+  },
+  {
+    "Name": "GULIANI INDUSTRIES-3007701307",
+    "S/N": "4203-3908",
+    "IP": "172.16.33.139",
+    "Last sync": "28-03-2026 15:35",
+    "Activated": "Activated",
+    "Device ID": "63",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RPK Steel Rolling Mills-R74-KR01-00103",
+    "S/N": "4203-3278",
+    "IP": "172.16.32.241",
+    "Last sync": "29-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "130",
+    "System": "PC 3"
+  },
+  {
+    "Name": "GURU NANAK AUTO ENTERPRISES LTD BUNDALA-  N36RK0100009",
+    "S/N": "4203-0547",
+    "IP": "172.16.33.244",
+    "Last sync": "29-03-2026 00:30",
+    "Activated": "Activated",
+    "Device ID": "3",
+    "System": "PC 3"
+  },
+  {
+    "Name": "NEHA JINDAL-   3008798643",
+    "S/N": "4203-3303",
+    "IP": "172.16.33.165",
+    "Last sync": "29-03-2026 03:39",
+    "Activated": "Activated",
+    "Device ID": "47",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MAHADEV FORGING P LTD- 3003018012",
+    "S/N": "4202-5340",
+    "IP": "172.16.33.164",
+    "Last sync": "29-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "39",
+    "System": "PC 3"
+  },
+  {
+    "Name": "PENSLA STEEL - 3007597392",
+    "S/N": "4203-6559",
+    "IP": "172.16.33.200",
+    "Last sync": "29-03-2026 02:01",
+    "Activated": "Activated",
+    "Device ID": "54",
+    "System": "PC 3"
+  },
+  {
+    "Name": "M/S WERKFINE TOOLS PVT LTD-  3008917023",
+    "S/N": "4203-2947",
+    "IP": "172.16.33.178",
+    "Last sync": "29-03-2026 03:59",
+    "Activated": "Activated",
+    "Device ID": "37",
+    "System": "PC 3"
+  },
+  {
+    "Name": "GILLS AGRO INDUSTRIES- 3002957620",
+    "S/N": "4203-0541",
+    "IP": "172.16.33.173",
+    "Last sync": "29-03-2026 04:02",
+    "Activated": "Activated",
+    "Device ID": "29",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Nabha Steels & Metals-3005913033",
+    "S/N": "4202-5547",
+    "IP": "172.16.32.208",
+    "Last sync": "29-03-2026 05:21",
+    "Activated": "Activated",
+    "Device ID": "159",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Omaxe Wedding Mall-PTA 3000058621",
+    "S/N": "4202-7377",
+    "IP": "172.16.32.204",
+    "Last sync": "29-03-2026 10:01",
+    "Activated": "Activated",
+    "Device ID": "164",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KAWALJIT SINGH - 3003018486",
+    "S/N": "4203-3875",
+    "IP": "172.16.33.137",
+    "Last sync": "29-03-2026 12:02",
+    "Activated": "Activated",
+    "Device ID": "72",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Nidhi Steel Industries-3002309703",
+    "S/N": "4202-4665",
+    "IP": "172.16.32.212",
+    "Last sync": "29-03-2026 16:17",
+    "Activated": "Activated",
+    "Device ID": "161",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MB EXPORT LTD-3007553456",
+    "S/N": "4203-3080",
+    "IP": "172.16.33.6",
+    "Last sync": "29-03-2026 18:14",
+    "Activated": "Activated",
+    "Device ID": "118",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Gian Castings Pvt Ltd-3002309609",
+    "S/N": "4203-3351",
+    "IP": "172.16.32.227",
+    "Last sync": "29-03-2026 21:01",
+    "Activated": "Activated",
+    "Device ID": "114",
+    "System": "PC 3"
+  },
+  {
+    "Name": "VARUN AGGRAWAL- U14AD0200028",
+    "S/N": "4203-5437",
+    "IP": "172.16.33.134",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "79",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHREE KRISHNA CASTING-3002309541",
+    "S/N": "4203-3934",
+    "IP": "172.16.33.99",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "108",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KL Ispat 3003018042",
+    "S/N": "4202-6142",
+    "IP": "172.16.33.21",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "121",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Sahil Tangri - 3005643083",
+    "S/N": "4203-8916",
+    "IP": "172.16.35.4",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "24",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHREE RK INDUSTRIES-3005316143",
+    "S/N": "4203-1087",
+    "IP": "172.16.33.140",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "83",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MOHINDER SINGH-3003018104",
+    "S/N": "4203-3069",
+    "IP": "172.16.33.18",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "119",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MANPREET SINGH - 3008523640",
+    "S/N": "4203-5415",
+    "IP": "172.16.33.180",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "45",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SURJIT CHOPRA- 3008672997",
+    "S/N": "4203-7245",
+    "IP": "172.16.33.194",
+    "Last sync": "30-03-2026 00:01",
+    "Activated": "Activated",
+    "Device ID": "60",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KS ALLOYS-3002309536",
+    "S/N": "4203-3310",
+    "IP": "172.16.33.17",
+    "Last sync": "30-03-2026 00:02",
+    "Activated": "Activated",
+    "Device ID": "120",
+    "System": "PC 3"
+  },
+  {
+    "Name": "METAL MASTERY- 3008859367",
+    "S/N": "4203-7154",
+    "IP": "172.16.35.9",
+    "Last sync": "30-03-2026 00:03",
+    "Activated": "Activated",
+    "Device ID": "14",
+    "System": "PC 3"
+  },
+  {
+    "Name": "REKOFA TOOLTECH PVT LTD-  3007509223",
+    "S/N": "4203-6085",
+    "IP": "172.16.33.183",
+    "Last sync": "30-03-2026 00:04",
+    "Activated": "Activated",
+    "Device ID": "48",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MATA ALLOYS-K52SS0100061",
+    "S/N": "4203-3352",
+    "IP": "172.16.33.5",
+    "Last sync": "30-03-2026 00:05",
+    "Activated": "Activated",
+    "Device ID": "117",
+    "System": "PC 3"
+  },
+  {
+    "Name": "R.P Concast-3005043780",
+    "S/N": "4203-3316",
+    "IP": "172.16.32.239",
+    "Last sync": "30-03-2026 00:06",
+    "Activated": "Activated",
+    "Device ID": "123",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RUDRA FORGE--3008616516",
+    "S/N": "4203-3878",
+    "IP": "172.16.33.138",
+    "Last sync": "30-03-2026 00:07",
+    "Activated": "Activated",
+    "Device ID": "77",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Jagraon Concast 3004875782",
+    "S/N": "4202-5529",
+    "IP": "172.16.32.150",
+    "Last sync": "30-03-2026 00:07",
+    "Activated": "Activated",
+    "Device ID": "140",
+    "System": "PC 3"
+  },
+  {
+    "Name": "HIGHWAY INDUSTRIES LTD-3003018337",
+    "S/N": "4202-7375",
+    "IP": "172.16.33.145",
+    "Last sync": "30-03-2026 00:08",
+    "Activated": "Activated",
+    "Device ID": "65",
+    "System": "PC 3"
+  },
+  {
+    "Name": "PYE TOOLS PVT LTD -3005395129",
+    "S/N": "4203-1086",
+    "IP": "172.16.33.193",
+    "Last sync": "30-03-2026 00:08",
+    "Activated": "Activated",
+    "Device ID": "61",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RAMCO INTERNATIONAL -3000855389",
+    "S/N": "4203-7289",
+    "IP": "172.16.33.187",
+    "Last sync": "30-03-2026 00:09",
+    "Activated": "Activated",
+    "Device ID": "50",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SRISHTECH-3007488841",
+    "S/N": "4203-3881",
+    "IP": "172.16.33.150",
+    "Last sync": "30-03-2026 00:10",
+    "Activated": "Activated",
+    "Device ID": "82",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RAMNEEK SINGH -3003346396",
+    "S/N": "4203-3294",
+    "IP": "172.16.33.92",
+    "Last sync": "30-03-2026 00:10",
+    "Activated": "Activated",
+    "Device ID": "101",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MANGAL JYOTI INDUSTRIAL CORPORATION- U44LK0200069",
+    "S/N": "4203-6054",
+    "IP": "172.16.33.171",
+    "Last sync": "30-03-2026 00:11",
+    "Activated": "Activated",
+    "Device ID": "38",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MADHAV KRG HRC",
+    "S/N": "4202-5546",
+    "IP": "172.16.32.206",
+    "Last sync": "30-03-2026 00:12",
+    "Activated": "Activated",
+    "Device ID": "144",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHAKTI UDYOG - 3008807365",
+    "S/N": "4203-4156",
+    "IP": "172.16.33.155",
+    "Last sync": "30-03-2026 00:14",
+    "Activated": "Activated",
+    "Device ID": "80",
+    "System": "PC 3"
+  },
+  {
+    "Name": "M.D CASTING- 3005350494",
+    "S/N": "4203-4024",
+    "IP": "172.16.33.149",
+    "Last sync": "30-03-2026 00:20",
+    "Activated": "Activated",
+    "Device ID": "69",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Har Har Mahadev-3007509301",
+    "S/N": "4202-6144",
+    "IP": "172.16.32.219",
+    "Last sync": "30-03-2026 00:21",
+    "Activated": "Activated",
+    "Device ID": "139",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Nicks India Tools-3002808920",
+    "S/N": "4203-2389",
+    "IP": "172.16.32.229",
+    "Last sync": "30-03-2026 00:23",
+    "Activated": "Activated",
+    "Device ID": "126",
+    "System": "PC 3"
+  },
+  {
+    "Name": "TURBO TECHNK PRIVATE-3008570162",
+    "S/N": "4203-4735",
+    "IP": "172.16.33.154",
+    "Last sync": "30-03-2026 00:38",
+    "Activated": "Activated",
+    "Device ID": "81",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RANJIT SINGH- 3004736171",
+    "S/N": "4202-9701",
+    "IP": "172.16.35.16",
+    "Last sync": "30-03-2026 00:38",
+    "Activated": "Activated",
+    "Device ID": "21",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Goyal Malleable- K52SS0100047",
+    "S/N": "4202-5368",
+    "IP": "172.16.35.128",
+    "Last sync": "30-03-2026 00:38",
+    "Activated": "Activated",
+    "Device ID": "175",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHANCHIT EXPORTS PVT LTD- 3005883293",
+    "S/N": "4203-6965",
+    "IP": "172.16.35.27",
+    "Last sync": "30-03-2026 00:38",
+    "Activated": "Activated",
+    "Device ID": "28",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Jai Gears p  Ltd -3002809573",
+    "S/N": "4203-3848",
+    "IP": "172.16.33.85",
+    "Last sync": "30-03-2026 00:38",
+    "Activated": "Activated",
+    "Device ID": "89",
+    "System": "PC 3"
+  },
+  {
+    "Name": "S.G MULTIMETALS-3004904663",
+    "S/N": "4203-4019",
+    "IP": "172.16.33.20",
+    "Last sync": "30-03-2026 01:10",
+    "Activated": "Activated",
+    "Device ID": "136",
+    "System": "PC 3"
+  },
+  {
+    "Name": "JEEVAN GARG- 3007719627",
+    "S/N": "4203-6525",
+    "IP": "172.16.35.26",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "12",
+    "System": "PC 3"
+  },
+  {
+    "Name": "OMAXE LIMITED- 3007508576",
+    "S/N": "4202-7387",
+    "IP": "172.16.33.247",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "19",
+    "System": "PC 3"
+  },
+  {
+    "Name": "YERIK INTERNATIONAL-3007509173",
+    "S/N": "4203-3322",
+    "IP": "172.16.33.107",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "110",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MUNISH FORGE -3002809669",
+    "S/N": "4203-0402",
+    "IP": "172.16.33.142",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "70",
+    "System": "PC 3"
+  },
+  {
+    "Name": "IMPEL FORGE & ALLIED INDUSTRIES LTD-R74-KR01-00015",
+    "S/N": "4202-8574",
+    "IP": "172.16.33.73",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "88",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RP RECYCLING 3007694310",
+    "S/N": "4203-3315",
+    "IP": "172.16.32.238",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "129",
+    "System": "PC 3"
+  },
+  {
+    "Name": "TEE DEE ALLOYS-K52SS0100069",
+    "S/N": "4203-3857",
+    "IP": "172.16.33.4",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "134",
+    "System": "PC 3"
+  },
+  {
+    "Name": "JITEN STEEL INDUSTRIES- 3002309593",
+    "S/N": "4203-2956",
+    "IP": "172.16.33.129",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "64",
+    "System": "PC 3"
+  },
+  {
+    "Name": "H.R Impex 3003018138",
+    "S/N": "4202-5629",
+    "IP": "172.16.32.169",
+    "Last sync": "30-03-2026 02:01",
+    "Activated": "Activated",
+    "Device ID": "142",
+    "System": "PC 3"
+  },
+  {
+    "Name": "GURJIT SINGH - 3003018187",
+    "S/N": "4202-6109",
+    "IP": "172.16.33.167",
+    "Last sync": "30-03-2026 02:01",
+    "Activated": "Activated",
+    "Device ID": "30",
+    "System": "PC 3"
+  },
+  {
+    "Name": "PV INDUSTRIES- 3008239450",
+    "S/N": "4203-7287",
+    "IP": "172.16.33.191",
+    "Last sync": "30-03-2026 02:03",
+    "Activated": "Activated",
+    "Device ID": "52",
+    "System": "PC 3"
+  },
+  {
+    "Name": "LUDHIANA STEEL ROLLING MILL U2- 3008102194",
+    "S/N": "4203-8914",
+    "IP": "172.16.35.25",
+    "Last sync": "30-03-2026 02:04",
+    "Activated": "Activated",
+    "Device ID": "18",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Saeco Strips Limited-K12-SD01-00006",
+    "S/N": "4203-3832",
+    "IP": "172.16.32.246",
+    "Last sync": "30-03-2026 02:05",
+    "Activated": "Activated",
+    "Device ID": "132",
+    "System": "PC 3"
+  },
+  {
+    "Name": "PANKAJ INTERNATIONAL-3007509224",
+    "S/N": "4203-3890",
+    "IP": "172.16.33.8",
+    "Last sync": "30-03-2026 02:12",
+    "Activated": "Activated",
+    "Device ID": "127",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHREE BALAJI INDUSTRIES - X32LS0100034",
+    "S/N": "4203-3815",
+    "IP": "172.16.33.170",
+    "Last sync": "30-03-2026 02:12",
+    "Activated": "Activated",
+    "Device ID": "56",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Saraswati Alloys 3005216849",
+    "S/N": "4202-5857",
+    "IP": "172.16.32.195",
+    "Last sync": "30-03-2026 02:12",
+    "Activated": "Activated",
+    "Device ID": "151",
+    "System": "PC 3"
+  },
+  {
+    "Name": "S.R. STEELS-3002802037",
+    "S/N": "4202-8571",
+    "IP": "172.16.33.122",
+    "Last sync": "30-03-2026 02:13",
+    "Activated": "Activated",
+    "Device ID": "113",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Narayan Castings 4202-9699",
+    "S/N": "4202-9699",
+    "IP": "172.16.32.163",
+    "Last sync": "30-03-2026 03:59",
+    "Activated": "Activated",
+    "Device ID": "148",
+    "System": "PC 3"
+  },
+  {
+    "Name": "GURU NANAK AUTO ENTERPRISES - N34GS2200006",
+    "S/N": "4203-3935",
+    "IP": "172.16.33.242",
+    "Last sync": "30-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "6",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RAMCO INTERNATIONAL DHOGRI -3000855584",
+    "S/N": "4203-6594",
+    "IP": "172.16.33.197",
+    "Last sync": "30-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "53",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SUNRISE ISPAT UDYOG-3002801952",
+    "S/N": "4203-4017",
+    "IP": "172.16.33.14",
+    "Last sync": "30-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "133",
+    "System": "PC 3"
+  },
+  {
+    "Name": "PRECISION INDUSTRIAL FASTENERS - 3003018101",
+    "S/N": "4203-3313",
+    "IP": "172.16.33.133",
+    "Last sync": "30-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "147",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SUVI INDUSTRIES -  R64MD0100006",
+    "S/N": "4203-3991",
+    "IP": "172.16.33.91",
+    "Last sync": "30-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "105",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SURJIT SINGH-3002954966",
+    "S/N": "4202-5862",
+    "IP": "172.16.33.75",
+    "Last sync": "30-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "106",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Taksus Steel MGG_3002309612",
+    "S/N": "4202-5653",
+    "IP": "172.16.32.214",
+    "Last sync": "30-03-2026 04:01",
+    "Activated": "Activated",
+    "Device ID": "154",
+    "System": "PC 3"
+  },
+  {
+    "Name": "PADMA BHAWAN ENGINEER P LTD-3002809623",
+    "S/N": "4203-3088",
+    "IP": "172.16.33.74",
+    "Last sync": "30-03-2026 04:01",
+    "Activated": "Activated",
+    "Device ID": "99",
+    "System": "PC 3"
+  },
+  {
+    "Name": "JAI AUTO PVT LTD-3007509190",
+    "S/N": "4203-1077",
+    "IP": "172.16.33.109",
+    "Last sync": "30-03-2026 04:04",
+    "Activated": "Activated",
+    "Device ID": "87",
+    "System": "PC 3"
+  },
+  {
+    "Name": "TRANSWORLD ENTERPRISES-  3002809471",
+    "S/N": "4203-3151",
+    "IP": "172.16.33.115",
+    "Last sync": "30-03-2026 04:05",
+    "Activated": "Activated",
+    "Device ID": "103",
+    "System": "PC 3"
+  },
+  {
+    "Name": "NAVEEN GARG-3002309234",
+    "S/N": "4203-4734",
+    "IP": "172.16.33.88",
+    "Last sync": "30-03-2026 04:07",
+    "Activated": "Activated",
+    "Device ID": "102",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MICRON ENTERPRISES- 3007574060",
+    "S/N": "4203-7272",
+    "IP": "172.16.33.181",
+    "Last sync": "30-03-2026 04:12",
+    "Activated": "Activated",
+    "Device ID": "44",
+    "System": "PC 3"
+  },
+  {
+    "Name": "NICKS INDIA TOOLS UNIT2-3003018420",
+    "S/N": "4203-2390",
+    "IP": "172.16.33.9",
+    "Last sync": "30-03-2026 04:12",
+    "Activated": "Activated",
+    "Device ID": "125",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Rupesh Maganbhai Patel- 3004785217",
+    "S/N": "4203-1040",
+    "IP": "172.16.33.106",
+    "Last sync": "30-03-2026 04:13",
+    "Activated": "Activated",
+    "Device ID": "97",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KUBER CASTINGS PVT.LTD-3002309624",
+    "S/N": "4203-3834",
+    "IP": "172.16.33.96",
+    "Last sync": "30-03-2026 04:28",
+    "Activated": "Activated",
+    "Device ID": "93",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Rudra Inn -3007547019",
+    "S/N": "4202-6147",
+    "IP": "172.16.32.215",
+    "Last sync": "30-03-2026 04:28",
+    "Activated": "Activated",
+    "Device ID": "137",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MEHTAB TOOLS- 3007629711",
+    "S/N": "4203-6552",
+    "IP": "172.16.33.188",
+    "Last sync": "30-03-2026 09:45",
+    "Activated": "Activated",
+    "Device ID": "41",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Skyway Components-3004750939",
+    "S/N": "4202-6102",
+    "IP": "172.16.32.210",
+    "Last sync": "30-03-2026 09:59",
+    "Activated": "Activated",
+    "Device ID": "160",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KHANNA INDUSTRIES- 3008602580",
+    "S/N": "4203-6086",
+    "IP": "172.16.33.159",
+    "Last sync": "30-03-2026 09:59",
+    "Activated": "Activated",
+    "Device ID": "40",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KASHMIR SINGH - 3004716808",
+    "S/N": "4203-4743",
+    "IP": "172.16.33.152",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "68",
+    "System": "PC 3"
+  },
+  {
+    "Name": "LCF OVERSEAS-3006162190",
+    "S/N": "4203-4023",
+    "IP": "172.16.33.141",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "71",
+    "System": "PC 3"
+  },
+  {
+    "Name": "NIJHAWAN INDUSTRIES-3008144090",
+    "S/N": "4203-4008",
+    "IP": "172.16.33.117",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "96",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Mahajan Indus LDH 3002811639",
+    "S/N": "4202-6117",
+    "IP": "172.16.32.122",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "156",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Skyway Forge 3003018102",
+    "S/N": "4202-5561",
+    "IP": "172.16.32.133",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "158",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RADHICA STEEL-3002309621",
+    "S/N": "4203-3314",
+    "IP": "172.16.32.240",
+    "Last sync": "30-03-2026 10:01",
+    "Activated": "Activated",
+    "Device ID": "124",
+    "System": "PC 3"
+  },
+  {
+    "Name": "YOGITA KAPOOR- 3008618410",
+    "S/N": "4203-3166",
+    "IP": "172.16.33.132",
+    "Last sync": "30-03-2026 10:06",
+    "Activated": "Activated",
+    "Device ID": "78",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Sona Casting MGG 3002309505",
+    "S/N": "4202-4667",
+    "IP": "172.16.32.129",
+    "Last sync": "30-03-2026 10:06",
+    "Activated": "Activated",
+    "Device ID": "157",
+    "System": "PC 3"
+  },
+  {
+    "Name": "Perfect Mettcast Pvt Ltd-U12HB0100110",
+    "S/N": "4203-6057",
+    "IP": "172.16.33.144",
+    "Last sync": "30-03-2026 10:07",
+    "Activated": "Activated",
+    "Device ID": "74",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SS Steel Industries-K52SS0100056",
+    "S/N": "4203-0508",
+    "IP": "172.16.32.205",
+    "Last sync": "30-03-2026 10:15",
+    "Activated": "Activated",
+    "Device ID": "163",
+    "System": "PC 3"
+  },
+  {
+    "Name": "MULTIMELT STEELS PVT LTD-3002309362",
+    "S/N": "4203-7105",
+    "IP": "172.16.32.200",
+    "Last sync": "30-03-2026 10:22",
+    "Activated": "Activated",
+    "Device ID": "162",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SUKHWINDER SINGH - 3003018192",
+    "S/N": "4203-3284",
+    "IP": "172.16.33.172",
+    "Last sync": "30-03-2026 11:35",
+    "Activated": "Activated",
+    "Device ID": "55",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SHIV INDUSTRIES- 3007102046",
+    "S/N": "4203-1070",
+    "IP": "172.16.33.19",
+    "Last sync": "30-03-2026 11:36",
+    "Activated": "Activated",
+    "Device ID": "25",
+    "System": "PC 3"
+  },
+  {
+    "Name": "RAJ AUTO INDUSTRIES-3007509217",
+    "S/N": "4203-3283",
+    "IP": "172.16.33.22",
+    "Last sync": "30-03-2026 11:36",
+    "Activated": "Activated",
+    "Device ID": "128",
+    "System": "PC 3"
+  },
+  {
+    "Name": "PANESAR AGRICULTURE WORKS PVT LTD- 3008150180",
+    "S/N": "4203-6087",
+    "IP": "172.16.33.176",
+    "Last sync": "30-03-2026 11:45",
+    "Activated": "Activated",
+    "Device ID": "46",
+    "System": "PC 3"
+  },
+  {
+    "Name": "SKG Engg-3002809511",
+    "S/N": "4203-0519",
+    "IP": "172.16.32.228",
+    "Last sync": "30-03-2026 11:45",
+    "Activated": "Activated",
+    "Device ID": "115",
+    "System": "PC 3"
+  },
+  {
+    "Name": "GSA INDUSTRIES U2 - P42RT01-0003",
+    "S/N": "4204-3154",
+    "IP": "172.16.32.96",
+    "Last sync": "30-03-2026 11:46",
+    "Activated": "Activated",
+    "Device ID": "174",
+    "System": "PC 3"
+  },
+  {
+    "Name": "KAY JAY FORGINGS PVT LTD-3002808936",
+    "S/N": "4203-3838",
+    "IP": "172.16.33.232",
+    "Last sync": "18-09-2024 11:33",
+    "Activated": "Activated",
+    "Device ID": "192",
+    "System": "PC 4"
+  },
+  {
+    "Name": "KAASHVI CASTING UDYOG-3008908097",
+    "S/N": "4203-6203",
+    "IP": "172.16.35.60",
+    "Last sync": "04-02-2025 09:37",
+    "Activated": "Activated",
+    "Device ID": "166",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Sham Enterprises- 3000855364",
+    "S/N": "4203-6966",
+    "IP": "172.16.33.238",
+    "Last sync": "16-05-2025 22:23",
+    "Activated": "Activated",
+    "Device ID": "210",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MEHAL SINGH-3003018272",
+    "S/N": "4203-3150",
+    "IP": "172.16.35.38",
+    "Last sync": "01-07-2025 12:53",
+    "Activated": "Activated",
+    "Device ID": "163",
+    "System": "PC 4"
+  },
+  {
+    "Name": "COLDMATIC FORGE PRIVATE LIMITED- 3007793456",
+    "S/N": "4204-0808",
+    "IP": "172.16.35.53",
+    "Last sync": "28-07-2025 10:57",
+    "Activated": "Activated",
+    "Device ID": "116",
+    "System": "PC 4"
+  },
+  {
+    "Name": "DAKSH INTERNATIONAL-3008831623",
+    "S/N": "4203-6207",
+    "IP": "172.16.35.74",
+    "Last sync": "31-07-2025 12:30",
+    "Activated": "Activated",
+    "Device ID": "51",
+    "System": "PC 4"
+  },
+  {
+    "Name": "JASNOOP INDUSTRY- 3009004232",
+    "S/N": "4203-8928",
+    "IP": "172.16.35.46",
+    "Last sync": "09-08-2025 13:09",
+    "Activated": "Activated",
+    "Device ID": "160",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MUNISH MANUFACTURING-3002809503",
+    "S/N": "4203-0409",
+    "IP": "172.16.35.103",
+    "Last sync": "28-08-2025 11:59",
+    "Activated": "Activated",
+    "Device ID": "4",
+    "System": "PC 4"
+  },
+  {
+    "Name": "GANESH EXPO TRADERS P LTD-3002809575",
+    "S/N": "4202-5538",
+    "IP": "172.16.35.109",
+    "Last sync": "30-08-2025 15:27",
+    "Activated": "Activated",
+    "Device ID": "10",
+    "System": "PC 4"
+  },
+  {
+    "Name": "RAMANDEEP KAUR-3002809399",
+    "S/N": "4203-6204",
+    "IP": "172.16.35.111",
+    "Last sync": "02-09-2025 16:04",
+    "Activated": "Activated",
+    "Device ID": "12",
+    "System": "PC 4"
+  },
+  {
+    "Name": "N B  ENGINEERING-3002490243",
+    "S/N": "4203-7155",
+    "IP": "172.16.33.237",
+    "Last sync": "04-10-2025 10:44",
+    "Activated": "Activated",
+    "Device ID": "201",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ARYAMAN INDUSTRIES- 3007509624",
+    "S/N": "4203-6561",
+    "IP": "172.16.33.203",
+    "Last sync": "10-10-2025 14:50",
+    "Activated": "Activated",
+    "Device ID": "140",
+    "System": "PC 4"
+  },
+  {
+    "Name": "C.R Auluck- 3002984465",
+    "S/N": "4202-6124",
+    "IP": "172.16.32.179",
+    "Last sync": "21-10-2025 02:59",
+    "Activated": "Activated",
+    "Device ID": "106",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SO VISION MULTIMETAL-3007618773",
+    "S/N": "4203-8511",
+    "IP": "172.16.33.218",
+    "Last sync": "13-11-2025 08:00",
+    "Activated": "Activated",
+    "Device ID": "205",
+    "System": "PC 4"
+  },
+  {
+    "Name": "DEEPAK FASTNER LTD-3007509216",
+    "S/N": "4203-3131",
+    "IP": "172.16.32.244",
+    "Last sync": "20-11-2025 15:20",
+    "Activated": "Activated",
+    "Device ID": "43",
+    "System": "PC 4"
+  },
+  {
+    "Name": "NORTHERN ALLOYS & CASTINGS-3009118932",
+    "S/N": "4203-8603",
+    "IP": "172.16.35.125",
+    "Last sync": "03-12-2025 00:00",
+    "Activated": "Activated",
+    "Device ID": "25",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AROHIM INTERNATIONAL -3008836033",
+    "S/N": "4203-7013",
+    "IP": "172.16.35.82",
+    "Last sync": "23-12-2025 17:32",
+    "Activated": "Activated",
+    "Device ID": "154",
+    "System": "PC 4"
+  },
+  {
+    "Name": "VEENU GUPTA -3008402865",
+    "S/N": "4202-7378",
+    "IP": "172.16.35.76",
+    "Last sync": "24-12-2025 07:33",
+    "Activated": "Activated",
+    "Device ID": "71",
+    "System": "PC 4"
+  },
+  {
+    "Name": "NARINDERJEET SINGH -3003018271",
+    "S/N": "4202-5869",
+    "IP": "172.16.35.57",
+    "Last sync": "26-12-2025 14:30",
+    "Activated": "Activated",
+    "Device ID": "172",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AMBIKA AUTO INDUSTRIES-3000855489",
+    "S/N": "4203-7147",
+    "IP": "172.16.35.62",
+    "Last sync": "08-01-2026 07:47",
+    "Activated": "Activated",
+    "Device ID": "151",
+    "System": "PC 4"
+  },
+  {
+    "Name": "CONFIDENCE AUTOMOBILE PVT LTD- 3008172881",
+    "S/N": "4203-9839",
+    "IP": "172.16.35.71",
+    "Last sync": "18-01-2026 08:01",
+    "Activated": "Activated",
+    "Device ID": "117",
+    "System": "PC 4"
+  },
+  {
+    "Name": "JSW STEEL COATED PRODUCTS LIMITED- 3008000600",
+    "S/N": "4202-9683",
+    "IP": "172.16.33.228",
+    "Last sync": "19-01-2026 08:02",
+    "Activated": "Activated",
+    "Device ID": "185",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ASHOKA MULTIMETALS PVT LTD- 3008520844",
+    "S/N": "4203-3082",
+    "IP": "172.16.35.77",
+    "Last sync": "20-01-2026 06:14",
+    "Activated": "Activated",
+    "Device ID": "155",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BHARAT STEEL INDUSTRIES-3005167560",
+    "S/N": "4203-3998",
+    "IP": "172.16.33.70",
+    "Last sync": "22-01-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "101",
+    "System": "PC 4"
+  },
+  {
+    "Name": "NARESH KUMAR GOYAL-3002809376",
+    "S/N": "4203-6539",
+    "IP": "172.16.35.108",
+    "Last sync": "24-01-2026 13:36",
+    "Activated": "Activated",
+    "Device ID": "9",
+    "System": "PC 4"
+  },
+  {
+    "Name": "DRAS ENGINEERING PRIVATE LIMITED-3008281291",
+    "S/N": "4204-0768",
+    "IP": "172.16.35.45",
+    "Last sync": "28-01-2026 12:39",
+    "Activated": "Activated",
+    "Device ID": "67",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BHUVAN GUPTA- 3008714535",
+    "S/N": "4203-3230",
+    "IP": "172.16.35.97",
+    "Last sync": "02-02-2026 14:02",
+    "Activated": "Activated",
+    "Device ID": "121",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SATINDER KUMAR- 3002809366",
+    "S/N": "4203-7260",
+    "IP": "172.16.35.67",
+    "Last sync": "05-02-2026 00:02",
+    "Activated": "Activated",
+    "Device ID": "78",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BAWEJA INDUSTRIES- 3002811318",
+    "S/N": "4203-8604",
+    "IP": "172.16.33.220",
+    "Last sync": "07-02-2026 03:43",
+    "Activated": "Activated",
+    "Device ID": "109",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SALUJA ALLOYS - 3003018434",
+    "S/N": "4203-6596",
+    "IP": "172.16.35.43",
+    "Last sync": "07-02-2026 12:58",
+    "Activated": "Activated",
+    "Device ID": "176",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Deepak Fasteneer Ltd - 3002809625",
+    "S/N": "4203-3130",
+    "IP": "172.16.33.118",
+    "Last sync": "13-02-2026 00:35",
+    "Activated": "Activated",
+    "Device ID": "42",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Bir Parkash- 3008021141",
+    "S/N": "4202-5762",
+    "IP": "172.16.32.221",
+    "Last sync": "13-02-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "100",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ANAND INDUSTRIES-3000855153",
+    "S/N": "4203-0988",
+    "IP": "172.16.33.86",
+    "Last sync": "22-02-2026 23:32",
+    "Activated": "Activated",
+    "Device ID": "130",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MK INDUSTRIES-3008797829",
+    "S/N": "4203-6401",
+    "IP": "172.16.35.123",
+    "Last sync": "27-02-2026 03:30",
+    "Activated": "Activated",
+    "Device ID": "21",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Broadway Overseas-A12 3000855365",
+    "S/N": "4202-5744",
+    "IP": "172.16.32.180",
+    "Last sync": "27-02-2026 08:48",
+    "Activated": "Activated",
+    "Device ID": "107",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BBN SHETESH INTERA TIONAL-3008682302",
+    "S/N": "4203-8918",
+    "IP": "172.16.35.44",
+    "Last sync": "28-02-2026 07:06",
+    "Activated": "Activated",
+    "Device ID": "115",
+    "System": "PC 4"
+  },
+  {
+    "Name": "M/s United Overseas Bolts and Nuts- R74KR0200264",
+    "S/N": "4204-1443",
+    "IP": "172.16.35.120",
+    "Last sync": "28-02-2026 12:24",
+    "Activated": "Activated",
+    "Device ID": "18",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Farm Parts Company-3002809507",
+    "S/N": "4202-4616",
+    "IP": "172.16.32.226",
+    "Last sync": "01-03-2026 08:55",
+    "Activated": "Activated",
+    "Device ID": "56",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Bombay Metal WorksLtd-3002984469",
+    "S/N": "4203-3309",
+    "IP": "172.16.32.242",
+    "Last sync": "04-03-2026 06:42",
+    "Activated": "Activated",
+    "Device ID": "99",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SKY AUTO INTERNATIONAL- 3005163603",
+    "S/N": "4202-5860",
+    "IP": "172.16.35.70",
+    "Last sync": "04-03-2026 10:22",
+    "Activated": "Activated",
+    "Device ID": "79",
+    "System": "PC 4"
+  },
+  {
+    "Name": "VAISHNAV ENGINEERING WORKS- 3008329077",
+    "S/N": "4203-7133",
+    "IP": "172.16.35.50",
+    "Last sync": "06-03-2026 02:01",
+    "Activated": "Activated",
+    "Device ID": "178",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MECHNOTECH FORGING PVT.LTD- 3008654543",
+    "S/N": "4203-3302",
+    "IP": "172.16.33.213",
+    "Last sync": "06-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "189",
+    "System": "PC 4"
+  },
+  {
+    "Name": "YUVRAJ STEELS PVT LTD- 3003018398",
+    "S/N": "4204-0771",
+    "IP": "172.16.35.42",
+    "Last sync": "06-03-2026 10:36",
+    "Activated": "Activated",
+    "Device ID": "175",
+    "System": "PC 4"
+  },
+  {
+    "Name": "C.K. ALLOYS- 3005609279",
+    "S/N": "4203-3884",
+    "IP": "172.16.33.97",
+    "Last sync": "06-03-2026 10:51",
+    "Activated": "Activated",
+    "Device ID": "102",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Emson Tools Mfg Corpn - 3002808915",
+    "S/N": "4203-3274",
+    "IP": "172.16.33.104",
+    "Last sync": "09-03-2026 13:41",
+    "Activated": "Activated",
+    "Device ID": "53",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Aay ESS Casting-3003018186",
+    "S/N": "4202-6054",
+    "IP": "172.16.32.209",
+    "Last sync": "12-03-2026 19:58",
+    "Activated": "Activated",
+    "Device ID": "142",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MAJAR SINGH AND BROTHERS -3002811694",
+    "S/N": "4203-3238",
+    "IP": "172.16.35.89",
+    "Last sync": "13-03-2026 13:13",
+    "Activated": "Activated",
+    "Device ID": "87",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BEE DEE CYCLE INDUSTRIES-3005401950",
+    "S/N": "4203-4172",
+    "IP": "172.16.35.106",
+    "Last sync": "13-03-2026 16:31",
+    "Activated": "Activated",
+    "Device ID": "7",
+    "System": "PC 4"
+  },
+  {
+    "Name": "M/S LAJ CASTING PROP.NARINDER SINGH-  3005633126",
+    "S/N": "4203-3910",
+    "IP": "172.16.33.146",
+    "Last sync": "15-03-2026 00:04",
+    "Activated": "Activated",
+    "Device ID": "30",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Eastman Forge 4202 4605",
+    "S/N": "4202-4605",
+    "IP": "172.16.32.74",
+    "Last sync": "15-03-2026 08:56",
+    "Activated": "Activated",
+    "Device ID": "61",
+    "System": "PC 4"
+  },
+  {
+    "Name": "GANESH EXPOTRADE P LTD U-2-   3002809790",
+    "S/N": "4202-5540",
+    "IP": "172.16.35.95",
+    "Last sync": "15-03-2026 18:25",
+    "Activated": "Activated",
+    "Device ID": "93",
+    "System": "PC 4"
+  },
+  {
+    "Name": "PUNIT JAIN - 3008799478",
+    "S/N": "4203-7089",
+    "IP": "172.16.33.221",
+    "Last sync": "16-03-2026 00:01",
+    "Activated": "Activated",
+    "Device ID": "198",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Director Central Hand Tool- 3002811128",
+    "S/N": "4203-4733",
+    "IP": "172.16.33.110",
+    "Last sync": "16-03-2026 10:38",
+    "Activated": "Activated",
+    "Device ID": "54",
+    "System": "PC 4"
+  },
+  {
+    "Name": "NORTH POLE INDUSTRES- 300855610",
+    "S/N": "4203-7008",
+    "IP": "172.16.33.236",
+    "Last sync": "16-03-2026 20:09",
+    "Activated": "Activated",
+    "Device ID": "200",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SR.DIVISIONAL ELECTRICAL ENGG. IRTD OFFICE- L38KK0300001",
+    "S/N": "4203-7073",
+    "IP": "172.16.35.51",
+    "Last sync": "17-03-2026 02:01",
+    "Activated": "Activated",
+    "Device ID": "211",
+    "System": "PC 4"
+  },
+  {
+    "Name": "HERO CYCLES-3003018226",
+    "S/N": "4202-7392",
+    "IP": "172.16.35.86",
+    "Last sync": "19-03-2026 16:59",
+    "Activated": "Activated",
+    "Device ID": "82",
+    "System": "PC 4"
+  },
+  {
+    "Name": "K.K INDUSTRIES - 3009097296",
+    "S/N": "4204-2495",
+    "IP": "172.16.33.169",
+    "Last sync": "20-03-2026 13:32",
+    "Activated": "Activated",
+    "Device ID": "39",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SWATI INDUSTRIES- 3002955727",
+    "S/N": "4203-3817",
+    "IP": "172.16.33.226",
+    "Last sync": "20-03-2026 18:57",
+    "Activated": "Activated",
+    "Device ID": "207",
+    "System": "PC 4"
+  },
+  {
+    "Name": "RISHABH FORGINGS- 3008791497",
+    "S/N": "4203-6402",
+    "IP": "172.16.35.36",
+    "Last sync": "20-03-2026 19:35",
+    "Activated": "Activated",
+    "Device ID": "168",
+    "System": "PC 4"
+  },
+  {
+    "Name": "RAMAN CASTING & FORGING- 4203-7153",
+    "S/N": "4203-7153",
+    "IP": "172.16.33.205",
+    "Last sync": "21-03-2026 11:15",
+    "Activated": "Activated",
+    "Device ID": "195",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BHUSHAN STEEL CORPORATION - 3008814681",
+    "S/N": "4203-4751",
+    "IP": "172.16.33.175",
+    "Last sync": "21-03-2026 12:44",
+    "Activated": "Activated",
+    "Device ID": "103",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Emson Gears 3003018354",
+    "S/N": "4202-5530",
+    "IP": "172.16.32.181",
+    "Last sync": "22-03-2026 07:04",
+    "Activated": "Activated",
+    "Device ID": "60",
+    "System": "PC 4"
+  },
+  {
+    "Name": "KROME DISPENSE PVT LTD - 3006302153",
+    "S/N": "4203-7017",
+    "IP": "172.16.35.22",
+    "Last sync": "22-03-2026 10:31",
+    "Activated": "Activated",
+    "Device ID": "69",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AGGARWAL INDUSTRIES- 3007623119",
+    "S/N": "4203-8952",
+    "IP": "172.16.35.31",
+    "Last sync": "22-03-2026 10:45",
+    "Activated": "Activated",
+    "Device ID": "149",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SEEMA JAIN- 3008619390",
+    "S/N": "4203-7090",
+    "IP": "172.16.33.209",
+    "Last sync": "25-03-2026 23:42",
+    "Activated": "Activated",
+    "Device ID": "204",
+    "System": "PC 4"
+  },
+  {
+    "Name": "KJ INTERNATIONAL-3007509090",
+    "S/N": "4202-0535",
+    "IP": "172.16.32.16",
+    "Last sync": "23-03-2026 12:14",
+    "Activated": "Activated",
+    "Device ID": "123",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ANJ METAL RECYCLING-3004947597",
+    "S/N": "4203-3949",
+    "IP": "172.16.33.82",
+    "Last sync": "23-03-2026 12:42",
+    "Activated": "Activated",
+    "Device ID": "134",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Chana-Surinder 3002956955",
+    "S/N": "4202-4650",
+    "IP": "172.16.32.36",
+    "Last sync": "23-03-2026 12:42",
+    "Activated": "Activated",
+    "Device ID": "118",
+    "System": "PC 4"
+  },
+  {
+    "Name": "TATA STEEL LTD-3008465670",
+    "S/N": "4204-1483",
+    "IP": "172.16.35.118",
+    "Last sync": "25-03-2026 00:17",
+    "Activated": "Activated",
+    "Device ID": "16",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SENIOR DEE UMB-3008143945",
+    "S/N": "4203-7099",
+    "IP": "172.16.35.126",
+    "Last sync": "25-03-2026 02:03",
+    "Activated": "Activated",
+    "Device ID": "27",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SEL Manufacturing Co C-256-3002810139",
+    "S/N": "4203-4015",
+    "IP": "172.16.33.233",
+    "Last sync": "25-03-2026 11:24",
+    "Activated": "Activated",
+    "Device ID": "209",
+    "System": "PC 4"
+  },
+  {
+    "Name": "PARDHAN INDUSTRIES-3005086788",
+    "S/N": "4203-6526",
+    "IP": "172.16.33.239",
+    "Last sync": "29-03-2026 07:34",
+    "Activated": "Activated",
+    "Device ID": "202",
+    "System": "PC 4"
+  },
+  {
+    "Name": "UNITED CASTING- 3008994576",
+    "S/N": "4203-9135",
+    "IP": "172.16.35.85",
+    "Last sync": "26-03-2026 08:47",
+    "Activated": "Activated",
+    "Device ID": "74",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MAHINDRA & MAHINDRA- 3001002542",
+    "S/N": "4204-1018",
+    "IP": "172.16.35.47",
+    "Last sync": "30-03-2026 11:40",
+    "Activated": "Activated",
+    "Device ID": "164",
+    "System": "PC 4"
+  },
+  {
+    "Name": "TIRUPATI INDUSTRIES-3002808954",
+    "S/N": "4204-1472",
+    "IP": "172.16.35.116",
+    "Last sync": "27-03-2026 00:01",
+    "Activated": "Activated",
+    "Device ID": "22",
+    "System": "PC 4"
+  },
+  {
+    "Name": "HARSIMRAN INTERNATIONAL- 3008973398",
+    "S/N": "4203-4042",
+    "IP": "172.16.33.202",
+    "Last sync": "27-03-2026 00:04",
+    "Activated": "Activated",
+    "Device ID": "181",
+    "System": "PC 4"
+  },
+  {
+    "Name": "DEV ARJUNA CAST & FORGE P LTD-3002809675",
+    "S/N": "4203-3265",
+    "IP": "172.16.35.104",
+    "Last sync": "27-03-2026 00:05",
+    "Activated": "Activated",
+    "Device ID": "6",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Aman Aggarwal-3008734380",
+    "S/N": "4203-7007",
+    "IP": "172.16.33.235",
+    "Last sync": "30-03-2026 11:40",
+    "Activated": "Activated",
+    "Device ID": "143",
+    "System": "PC 4"
+  },
+  {
+    "Name": "M/S  SHREE SIDHVINYAK ALLOYS -3009039893",
+    "S/N": "4204-3287",
+    "IP": "172.16.32.251",
+    "Last sync": "27-03-2026 05:58",
+    "Activated": "Activated",
+    "Device ID": "33",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SUPERMAN CAST & FORGE- 3002809892",
+    "S/N": "4203-4731",
+    "IP": "172.16.33.231",
+    "Last sync": "27-03-2026 11:45",
+    "Activated": "Activated",
+    "Device ID": "208",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ASIAN  FABRICATORS -3002810323",
+    "S/N": "4203-3819",
+    "IP": "172.16.35.113",
+    "Last sync": "27-03-2026 11:56",
+    "Activated": "Activated",
+    "Device ID": "23",
+    "System": "PC 4"
+  },
+  {
+    "Name": "KUNDI BROTHERS - 3002808651",
+    "S/N": "4204-2133",
+    "IP": "172.16.35.119",
+    "Last sync": "27-03-2026 12:03",
+    "Activated": "Activated",
+    "Device ID": "17",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SANJAY MAHENDRU -3003018129",
+    "S/N": "4203-5061",
+    "IP": "172.16.35.80",
+    "Last sync": "27-03-2026 12:13",
+    "Activated": "Activated",
+    "Device ID": "85",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BHAWANI CASTINGS-3002309508",
+    "S/N": "4203-3321",
+    "IP": "172.16.33.24",
+    "Last sync": "27-03-2026 12:17",
+    "Activated": "Activated",
+    "Device ID": "110",
+    "System": "PC 4"
+  },
+  {
+    "Name": "NARINDERJEET SINGH- 3002958431",
+    "S/N": "4202-5868",
+    "IP": "172.16.35.58",
+    "Last sync": "27-03-2026 12:32",
+    "Activated": "Activated",
+    "Device ID": "171",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SWATI INDUSTRIES-3008129879",
+    "S/N": "4203-4039",
+    "IP": "172.16.35.114",
+    "Last sync": "27-03-2026 12:35",
+    "Activated": "Activated",
+    "Device ID": "1",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BHAWANI SHANKAR CASTING-300855572",
+    "S/N": "4203-8489",
+    "IP": "172.16.33.254",
+    "Last sync": "27-03-2026 15:59",
+    "Activated": "Activated",
+    "Device ID": "112",
+    "System": "PC 4"
+  },
+  {
+    "Name": "VENUS INDUSTRIAL CORPORATION - R74-KR01-00119",
+    "S/N": "4203-9930",
+    "IP": "172.16.35.88",
+    "Last sync": "27-03-2026 16:46",
+    "Activated": "Activated",
+    "Device ID": "84",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SANJIV KALRA - 3002809818",
+    "S/N": "4203-7152",
+    "IP": "172.16.35.98",
+    "Last sync": "27-03-2026 17:03",
+    "Activated": "Activated",
+    "Device ID": "95",
+    "System": "PC 4"
+  },
+  {
+    "Name": "REKOFA SMALL TOOLS -3002809128",
+    "S/N": "4203-8951",
+    "IP": "172.16.35.100",
+    "Last sync": "27-03-2026 17:04",
+    "Activated": "Activated",
+    "Device ID": "96",
+    "System": "PC 4"
+  },
+  {
+    "Name": "KAVITA SINGLA-3007589939",
+    "S/N": "4203-8510",
+    "IP": "172.16.35.90",
+    "Last sync": "27-03-2026 19:06",
+    "Activated": "Activated",
+    "Device ID": "89",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Delite Industries -3006576373",
+    "S/N": "4203-6205",
+    "IP": "172.16.33.210",
+    "Last sync": "27-03-2026 19:14",
+    "Activated": "Activated",
+    "Device ID": "48",
+    "System": "PC 4"
+  },
+  {
+    "Name": "JASSAR FORGINGS- 3002309852",
+    "S/N": "4203-8915",
+    "IP": "172.16.35.105",
+    "Last sync": "27-03-2026 19:25",
+    "Activated": "Activated",
+    "Device ID": "5",
+    "System": "PC 4"
+  },
+  {
+    "Name": "CHIRAG FORGINGS-3005100541",
+    "S/N": "4203-4737",
+    "IP": "172.16.35.107",
+    "Last sync": "27-03-2026 23:59",
+    "Activated": "Activated",
+    "Device ID": "8",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AVTAR SINGH BABU LABH SINGH NAGAR-3002811122",
+    "S/N": "4203-1000",
+    "IP": "172.16.33.113",
+    "Last sync": "28-03-2026 00:03",
+    "Activated": "Activated",
+    "Device ID": "126",
+    "System": "PC 4"
+  },
+  {
+    "Name": "KAY JAY FORGING P LTD C.-20- 3002808904",
+    "S/N": "4203-3845",
+    "IP": "172.16.33.234",
+    "Last sync": "28-03-2026 00:03",
+    "Activated": "Activated",
+    "Device ID": "193",
+    "System": "PC 4"
+  },
+  {
+    "Name": "HIGHWAY INDUSTRY-3002809435",
+    "S/N": "4202-5745",
+    "IP": "172.16.32.189",
+    "Last sync": "28-03-2026 12:23",
+    "Activated": "Activated",
+    "Device ID": "29",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MAXXCUT AGRI SOLUTIONS-R74KR0200321",
+    "S/N": "4203-7094",
+    "IP": "172.16.35.34",
+    "Last sync": "28-03-2026 13:09",
+    "Activated": "Activated",
+    "Device ID": "162",
+    "System": "PC 4"
+  },
+  {
+    "Name": "NEW BHARAT ENGG.WORKS- 3004771534",
+    "S/N": "4203-4744",
+    "IP": "172.16.33.215",
+    "Last sync": "28-03-2026 13:13",
+    "Activated": "Activated",
+    "Device ID": "197",
+    "System": "PC 4"
+  },
+  {
+    "Name": "EMMSON PROCESSING-3002958604",
+    "S/N": "4203-3081",
+    "IP": "172.16.35.39",
+    "Last sync": "28-03-2026 14:21",
+    "Activated": "Activated",
+    "Device ID": "66",
+    "System": "PC 4"
+  },
+  {
+    "Name": "J B AUTO ENGG- 3003018302",
+    "S/N": "4202-5846",
+    "IP": "172.16.35.55",
+    "Last sync": "28-03-2026 14:36",
+    "Activated": "Activated",
+    "Device ID": "161",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ASHWINI  GUPTA-3009032979",
+    "S/N": "4203-9927",
+    "IP": "172.16.35.41",
+    "Last sync": "28-03-2026 14:52",
+    "Activated": "Activated",
+    "Device ID": "150",
+    "System": "PC 4"
+  },
+  {
+    "Name": "A V FORGE- 3005819861",
+    "S/N": "4203-3350",
+    "IP": "172.16.32.144",
+    "Last sync": "28-03-2026 22:54",
+    "Activated": "Activated",
+    "Device ID": "136",
+    "System": "PC 4"
+  },
+  {
+    "Name": "RAHUL TREHAN- 3008828971",
+    "S/N": "4203-9929",
+    "IP": "172.16.35.37",
+    "Last sync": "28-03-2026 15:34",
+    "Activated": "Activated",
+    "Device ID": "169",
+    "System": "PC 4"
+  },
+  {
+    "Name": "A.K CAST AND FORG-3000855631",
+    "S/N": "4203-8454",
+    "IP": "172.16.35.28",
+    "Last sync": "28-03-2026 15:37",
+    "Activated": "Activated",
+    "Device ID": "148",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Aarti Steel  FP- 3008356181",
+    "S/N": "4202-5362",
+    "IP": "172.16.32.79",
+    "Last sync": "29-03-2026 11:05",
+    "Activated": "Activated",
+    "Device ID": "145",
+    "System": "PC 4"
+  },
+  {
+    "Name": "A.P.CONCAST-K52SS0100071",
+    "S/N": "4203-1035",
+    "IP": "172.16.33.60",
+    "Last sync": "28-03-2026 15:43",
+    "Activated": "Activated",
+    "Device ID": "129",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Auto Forging-3002809537",
+    "S/N": "4203-3263",
+    "IP": "172.16.32.236",
+    "Last sync": "28-03-2026 15:43",
+    "Activated": "Activated",
+    "Device ID": "131",
+    "System": "PC 4"
+  },
+  {
+    "Name": "JVM INDUSTRIES- 3002809915",
+    "S/N": "4203-4037",
+    "IP": "172.16.35.93",
+    "Last sync": "28-03-2026 15:50",
+    "Activated": "Activated",
+    "Device ID": "91",
+    "System": "PC 4"
+  },
+  {
+    "Name": "GURCHARAN KHURANA - 3005887841",
+    "S/N": "4203-8604",
+    "IP": "172.16.35.63",
+    "Last sync": "28-03-2026 15:54",
+    "Activated": "Activated",
+    "Device ID": "70",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AMRIT INDUTRY-3002809003",
+    "S/N": "4203-3872",
+    "IP": "172.16.35.112",
+    "Last sync": "28-03-2026 15:55",
+    "Activated": "Activated",
+    "Device ID": "15",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MAHADEV FORGE P.(LTD) UNIT-2- 3004795165",
+    "S/N": "4202-5341",
+    "IP": "172.16.33.230",
+    "Last sync": "28-03-2026 15:56",
+    "Activated": "Activated",
+    "Device ID": "191",
+    "System": "PC 4"
+  },
+  {
+    "Name": "KS INVESTOCAST- 3007800072",
+    "S/N": "4203-6543",
+    "IP": "172.16.33.208",
+    "Last sync": "28-03-2026 16:11",
+    "Activated": "Activated",
+    "Device ID": "187",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SINGLA IND CORP-3002809786",
+    "S/N": "4202-5558",
+    "IP": "172.16.35.110",
+    "Last sync": "28-03-2026 16:13",
+    "Activated": "Activated",
+    "Device ID": "11",
+    "System": "PC 4"
+  },
+  {
+    "Name": "TECHNO CAST INDIA- 3005174169",
+    "S/N": "4203-3354",
+    "IP": "172.16.35.78",
+    "Last sync": "29-03-2026 13:44",
+    "Activated": "Activated",
+    "Device ID": "88",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Dhunna Steel Castings - 3002811420",
+    "S/N": "4203-4025",
+    "IP": "172.16.33.100",
+    "Last sync": "28-03-2026 16:15",
+    "Activated": "Activated",
+    "Device ID": "37",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Mech Choice Tools- 3004980873",
+    "S/N": "4203-7092",
+    "IP": "172.16.33.211",
+    "Last sync": "28-03-2026 16:17",
+    "Activated": "Activated",
+    "Device ID": "188",
+    "System": "PC 4"
+  },
+  {
+    "Name": "LEELA FORGING PVT - 3002809474",
+    "S/N": "4203-3816",
+    "IP": "172.16.33.216",
+    "Last sync": "28-03-2026 16:18",
+    "Activated": "Activated",
+    "Device ID": "190",
+    "System": "PC 4"
+  },
+  {
+    "Name": "THARAJ CASTINGS PVT LTD- 3008897511",
+    "S/N": "4203-3076",
+    "IP": "172.16.35.73",
+    "Last sync": "28-03-2026 16:21",
+    "Activated": "Activated",
+    "Device ID": "81",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Aadi Shree Fastener Industries -3007552390",
+    "S/N": "4203-4736",
+    "IP": "172.16.32.143",
+    "Last sync": "28-03-2026 16:21",
+    "Activated": "Activated",
+    "Device ID": "146",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SHANKER CASTING INDUSTRIES- 3008723323",
+    "S/N": "4203-6094",
+    "IP": "172.16.35.69",
+    "Last sync": "28-03-2026 16:30",
+    "Activated": "Activated",
+    "Device ID": "80",
+    "System": "PC 4"
+  },
+  {
+    "Name": "B.P. ALLOYS- 3002809646",
+    "S/N": "4203-0467",
+    "IP": "172.16.35.102",
+    "Last sync": "28-03-2026 16:30",
+    "Activated": "Activated",
+    "Device ID": "3",
+    "System": "PC 4"
+  },
+  {
+    "Name": "H B GLOBAL- 3005360706",
+    "S/N": "4203-6998",
+    "IP": "172.16.35.29",
+    "Last sync": "28-03-2026 22:06",
+    "Activated": "Activated",
+    "Device ID": "159",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Aman Dhammi - 3002802094",
+    "S/N": "4203-5436",
+    "IP": "172.16.33.112",
+    "Last sync": "30-03-2026 11:44",
+    "Activated": "Activated",
+    "Device ID": "125",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AGGRAWAL TOUGHENED & SAFETY GLASS-3002309235",
+    "S/N": "4203-1074",
+    "IP": "172.16.33.28",
+    "Last sync": "29-03-2026 00:01",
+    "Activated": "Activated",
+    "Device ID": "135",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AH Exports 3003018440",
+    "S/N": "4202-4669",
+    "IP": "172.16.32.224",
+    "Last sync": "30-03-2026 11:44",
+    "Activated": "Activated",
+    "Device ID": "156",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Accord Industries-3003018049",
+    "S/N": "4202-5738",
+    "IP": "172.16.32.217",
+    "Last sync": "29-03-2026 19:54",
+    "Activated": "Activated",
+    "Device ID": "127",
+    "System": "PC 4"
+  },
+  {
+    "Name": "NISHANT GANDHI - 3008870367",
+    "S/N": "4203-6960",
+    "IP": "172.16.33.229",
+    "Last sync": "29-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "199",
+    "System": "PC 4"
+  },
+  {
+    "Name": "DC INTERNATIONAL -R74KR0100308",
+    "S/N": "4203-5416",
+    "IP": "172.16.35.49",
+    "Last sync": "29-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "50",
+    "System": "PC 4"
+  },
+  {
+    "Name": "RAKESH GUPTA -3000855298",
+    "S/N": "4203-8917",
+    "IP": "172.16.35.65",
+    "Last sync": "29-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "75",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ESSEN FORGE PVT.LTD.-  3003018023",
+    "S/N": "4203-3134",
+    "IP": "172.16.35.7",
+    "Last sync": "29-03-2026 02:01",
+    "Activated": "Activated",
+    "Device ID": "65",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AKSHAT ALLOYS-3005077377",
+    "S/N": "4203-3308",
+    "IP": "172.16.33.3",
+    "Last sync": "29-03-2026 02:02",
+    "Activated": "Activated",
+    "Device ID": "144",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MAHAVIR AGRO INDUSTRY- 3008319358",
+    "S/N": "4203-7014",
+    "IP": "172.16.33.245",
+    "Last sync": "29-03-2026 10:57",
+    "Activated": "Activated",
+    "Device ID": "194",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ARUN KUMAR- 3002959177",
+    "S/N": "4203-7130",
+    "IP": "172.16.35.66",
+    "Last sync": "29-03-2026 08:00",
+    "Activated": "Activated",
+    "Device ID": "152",
+    "System": "PC 4"
+  },
+  {
+    "Name": "DAXTON INTERNATIONAL- 3008667841",
+    "S/N": "4203-7243",
+    "IP": "172.16.33.199",
+    "Last sync": "29-03-2026 16:29",
+    "Activated": "Activated",
+    "Device ID": "47",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MANGAT INDUSTRIES- 3004959308",
+    "S/N": "4203-7286",
+    "IP": "172.16.35.96",
+    "Last sync": "29-03-2026 16:29",
+    "Activated": "Activated",
+    "Device ID": "94",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ECONOMIC INDUSTRIE- N34GS2200016",
+    "S/N": "4203-3877",
+    "IP": "172.16.33.248",
+    "Last sync": "29-03-2026 16:30",
+    "Activated": "Activated",
+    "Device ID": "63",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BALBIR SINGH- 3002956423",
+    "S/N": "4203-4440",
+    "IP": "172.16.33.252",
+    "Last sync": "29-03-2026 16:30",
+    "Activated": "Activated",
+    "Device ID": "111",
+    "System": "PC 4"
+  },
+  {
+    "Name": "R.T. FORGE -3005315574",
+    "S/N": "4203-4038",
+    "IP": "172.16.35.101",
+    "Last sync": "30-03-2026 11:47",
+    "Activated": "Activated",
+    "Device ID": "2",
+    "System": "PC 4"
+  },
+  {
+    "Name": "FORESTEEL INDUSTRIES-3005314136",
+    "S/N": "4203-4002",
+    "IP": "172.16.33.124",
+    "Last sync": "29-03-2026 20:09",
+    "Activated": "Activated",
+    "Device ID": "59",
+    "System": "PC 4"
+  },
+  {
+    "Name": "CTC INDUSTRIES- Z22HDO100090",
+    "S/N": "4203-8455",
+    "IP": "172.16.35.19",
+    "Last sync": "29-03-2026 23:59",
+    "Activated": "Activated",
+    "Device ID": "114",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Dawinder Singh S/O Surinder Singh - 3002811320",
+    "S/N": "4203-4040",
+    "IP": "172.16.33.95",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "45",
+    "System": "PC 4"
+  },
+  {
+    "Name": "NIRMAL PRODUCTS -3005664912",
+    "S/N": "4203-3312",
+    "IP": "172.16.35.79",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "86",
+    "System": "PC 4"
+  },
+  {
+    "Name": "CHADHA ENGG. OVERSEAS -3004862590",
+    "S/N": "4203-6187",
+    "IP": "172.16.33.179",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "104",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AJIT SINGH CHHABRA-3007779055",
+    "S/N": "4203-1141",
+    "IP": "172.16.35.24",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "147",
+    "System": "PC 4"
+  },
+  {
+    "Name": "KARTAR VALVES  PVT LTD-3007775962",
+    "S/N": "4203-9982",
+    "IP": "172.16.35.54",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "165",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SOM INDUSTRIES- 3008601463",
+    "S/N": "4203-6186",
+    "IP": "172.16.33.224",
+    "Last sync": "30-03-2026 00:01",
+    "Activated": "Activated",
+    "Device ID": "206",
+    "System": "PC 4"
+  },
+  {
+    "Name": "VCK FORGE- 3008644763",
+    "S/N": "4203-3304",
+    "IP": "172.16.35.94",
+    "Last sync": "30-03-2026 00:02",
+    "Activated": "Activated",
+    "Device ID": "92",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AARKO PIPE GRAM UDYOG REGD-3000855691",
+    "S/N": "4203-9907",
+    "IP": "172.16.35.91",
+    "Last sync": "30-03-2026 00:02",
+    "Activated": "Activated",
+    "Device ID": "157",
+    "System": "PC 4"
+  },
+  {
+    "Name": "CHAMUNDA CAST & ENGINEERS- 3005857505",
+    "S/N": "4203-6233",
+    "IP": "172.16.35.99",
+    "Last sync": "30-03-2026 00:03",
+    "Activated": "Activated",
+    "Device ID": "122",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MITRA PRECISE FORGE PVT LTD- 3003018065",
+    "S/N": "4203-6563",
+    "IP": "172.16.35.75",
+    "Last sync": "30-03-2026 00:04",
+    "Activated": "Activated",
+    "Device ID": "73",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SIDHESHWAR ALLOYS PVT LTD- 3002309532",
+    "S/N": "4203-6522",
+    "IP": "172.16.35.40",
+    "Last sync": "30-03-2026 00:04",
+    "Activated": "Activated",
+    "Device ID": "174",
+    "System": "PC 4"
+  },
+  {
+    "Name": "MONGA BROTHERS- 3002808997",
+    "S/N": "4203-5418",
+    "IP": "172.16.33.206",
+    "Last sync": "30-03-2026 00:05",
+    "Activated": "Activated",
+    "Device ID": "186",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ESS PEE-4202 4658",
+    "S/N": "4202-4658",
+    "IP": "172.16.32.62",
+    "Last sync": "30-03-2026 00:06",
+    "Activated": "Activated",
+    "Device ID": "62",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SHRI AMBEY STEEL INDUSTRIES- 3005014510",
+    "S/N": "4204-0287",
+    "IP": "172.16.35.87",
+    "Last sync": "30-03-2026 00:06",
+    "Activated": "Activated",
+    "Device ID": "83",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Gurjeevan Singh-3005247693",
+    "S/N": "4203-7015",
+    "IP": "172.16.33.241",
+    "Last sync": "30-03-2026 00:06",
+    "Activated": "Activated",
+    "Device ID": "180",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AMT ALLOYS PVT LTD-  L31-L101-00001",
+    "S/N": "4203-3305",
+    "IP": "172.16.33.153",
+    "Last sync": "30-03-2026 00:07",
+    "Activated": "Activated",
+    "Device ID": "137",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AVDESH TRACKS PVT LTD- 3007510122",
+    "S/N": "4202-7391",
+    "IP": "172.16.33.151",
+    "Last sync": "30-03-2026 00:07",
+    "Activated": "Activated",
+    "Device ID": "138",
+    "System": "PC 4"
+  },
+  {
+    "Name": "PRABHAT HEAVY FORGING PVT LTD -3002309535",
+    "S/N": "4203-8953",
+    "IP": "172.16.35.59",
+    "Last sync": "30-03-2026 00:15",
+    "Activated": "Activated",
+    "Device ID": "170",
+    "System": "PC 4"
+  },
+  {
+    "Name": "C.S. CASTINGS PVT LTD-3002309792",
+    "S/N": "4203-3850",
+    "IP": "172.16.33.93",
+    "Last sync": "30-03-2026 00:15",
+    "Activated": "Activated",
+    "Device ID": "97",
+    "System": "PC 4"
+  },
+  {
+    "Name": "UNIPEARL ALLOYS-3002309788",
+    "S/N": "4203-3993",
+    "IP": "172.16.33.81",
+    "Last sync": "30-03-2026 00:15",
+    "Activated": "Activated",
+    "Device ID": "31",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ASHWANI GAMBHIR-3008166926",
+    "S/N": "4203-3116",
+    "IP": "172.16.33.131",
+    "Last sync": "30-03-2026 00:16",
+    "Activated": "Activated",
+    "Device ID": "124",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ESSEN AUTO FORGING-3002809567",
+    "S/N": "4203-3133",
+    "IP": "172.16.32.237",
+    "Last sync": "30-03-2026 00:31",
+    "Activated": "Activated",
+    "Device ID": "55",
+    "System": "PC 4"
+  },
+  {
+    "Name": "IMPRESSION SECURITY PVT LTD-3002309630",
+    "S/N": "4203-6593",
+    "IP": "172.16.33.212",
+    "Last sync": "30-03-2026 00:31",
+    "Activated": "Activated",
+    "Device ID": "183",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BEE DEE CYCLE LTD -3002810065",
+    "S/N": "4203-4481",
+    "IP": "172.16.33.192",
+    "Last sync": "30-03-2026 01:59",
+    "Activated": "Activated",
+    "Device ID": "105",
+    "System": "PC 4"
+  },
+  {
+    "Name": "RAMCO INTERNATIONAL 4203-8508-   3002489934",
+    "S/N": "4203-8508",
+    "IP": "172.16.33.240",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "203",
+    "System": "PC 4"
+  },
+  {
+    "Name": "B.M. WATER METER- 3003324973",
+    "S/N": "4203-6527",
+    "IP": "172.16.35.5",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "113",
+    "System": "PC 4"
+  },
+  {
+    "Name": "KALRA IND CORPS-33002810169",
+    "S/N": "4203-7244",
+    "IP": "172.16.35.117",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "28",
+    "System": "PC 4"
+  },
+  {
+    "Name": "FORMATIVE ENGINEERING PVT LTD-3003018091",
+    "S/N": "4202-7373",
+    "IP": "172.16.33.127",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "52",
+    "System": "PC 4"
+  },
+  {
+    "Name": "S.R INFRAA-3008361240",
+    "S/N": "4204-1449",
+    "IP": "172.16.32.245",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "26",
+    "System": "PC 4"
+  },
+  {
+    "Name": "FORGE AUTO INTERNATIONAL PRIVA-R74KR0100284",
+    "S/N": "4204-1450",
+    "IP": "172.16.35.122",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "19",
+    "System": "PC 4"
+  },
+  {
+    "Name": "JASBIR SINGH-  3007568395",
+    "S/N": "4203-7129",
+    "IP": "172.16.35.68",
+    "Last sync": "30-03-2026 02:00",
+    "Activated": "Activated",
+    "Device ID": "72",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Daichi Overseas 3003018432",
+    "S/N": "4203-0411",
+    "IP": "172.16.32.199",
+    "Last sync": "30-03-2026 02:01",
+    "Activated": "Activated",
+    "Device ID": "68",
+    "System": "PC 4"
+  },
+  {
+    "Name": "INDERPAL CHOPRA- 3008872565",
+    "S/N": "4203-8453",
+    "IP": "172.16.33.217",
+    "Last sync": "30-03-2026 02:01",
+    "Activated": "Activated",
+    "Device ID": "184",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Consern Pharma 3005111197",
+    "S/N": "4202-1327",
+    "IP": "172.16.32.182",
+    "Last sync": "30-03-2026 02:02",
+    "Activated": "Activated",
+    "Device ID": "120",
+    "System": "PC 4"
+  },
+  {
+    "Name": "D.A.V. ENGG. WORKS -3002810375",
+    "S/N": "4203-3266",
+    "IP": "172.16.35.18",
+    "Last sync": "30-03-2026 02:04",
+    "Activated": "Activated",
+    "Device ID": "49",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AMIT KUMAR- 3003035480",
+    "S/N": "4203-6232",
+    "IP": "172.16.35.84",
+    "Last sync": "30-03-2026 02:05",
+    "Activated": "Activated",
+    "Device ID": "153",
+    "System": "PC 4"
+  },
+  {
+    "Name": "G P EXPORTS-3008650333",
+    "S/N": "4203-8456",
+    "IP": "172.16.35.30",
+    "Last sync": "30-03-2026 02:05",
+    "Activated": "Activated",
+    "Device ID": "158",
+    "System": "PC 4"
+  },
+  {
+    "Name": "JPM INDUSTRIES -3002901716",
+    "S/N": "4203-7091",
+    "IP": "172.16.33.204",
+    "Last sync": "30-03-2026 03:50",
+    "Activated": "Activated",
+    "Device ID": "182",
+    "System": "PC 4"
+  },
+  {
+    "Name": "ROYAL CONCAST-K31LS0100009",
+    "S/N": "4204-1471",
+    "IP": "172.16.32.89",
+    "Last sync": "30-03-2026 03:59",
+    "Activated": "Activated",
+    "Device ID": "14",
+    "System": "PC 4"
+  },
+  {
+    "Name": "RAJ AUTO INDUSTRIES-3003018103",
+    "S/N": "4203-6584",
+    "IP": "172.16.35.72",
+    "Last sync": "30-03-2026 03:59",
+    "Activated": "Activated",
+    "Device ID": "76",
+    "System": "PC 4"
+  },
+  {
+    "Name": "PREM SINGH- 3002802191",
+    "S/N": "4204-0773",
+    "IP": "172.16.35.35",
+    "Last sync": "30-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "167",
+    "System": "PC 4"
+  },
+  {
+    "Name": "GARDEX INDIA PVT LTD- 3007764926",
+    "S/N": "4203-6541",
+    "IP": "172.16.33.214",
+    "Last sync": "30-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "179",
+    "System": "PC 4"
+  },
+  {
+    "Name": "GANESH EXPO TRADE PVT LTD- 3008143802",
+    "S/N": "4202-5539",
+    "IP": "172.16.35.92",
+    "Last sync": "30-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "90",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Avon Ispat 4202-4090",
+    "S/N": "4202-4090",
+    "IP": "172.16.32.81",
+    "Last sync": "30-03-2026 04:00",
+    "Activated": "Activated",
+    "Device ID": "141",
+    "System": "PC 4"
+  },
+  {
+    "Name": "DAMODAR GLASS INDUSTRIES-3007775538",
+    "S/N": "4203-0994",
+    "IP": "172.16.33.90",
+    "Last sync": "30-03-2026 04:05",
+    "Activated": "Activated",
+    "Device ID": "44",
+    "System": "PC 4"
+  },
+  {
+    "Name": "A-TOP FASTENER PVT LTD-3000244202",
+    "S/N": "4203-3907",
+    "IP": "172.16.33.38",
+    "Last sync": "30-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "132",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AUTO IND.NASRALA-3000855144",
+    "S/N": "4203-4479",
+    "IP": "172.16.33.55",
+    "Last sync": "30-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "133",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AMAR METAL- 3003307314",
+    "S/N": "4203-6190",
+    "IP": "172.16.33.184",
+    "Last sync": "30-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "139",
+    "System": "PC 4"
+  },
+  {
+    "Name": "FORTUNE METALS LTD.-3002309625",
+    "S/N": "4203-8930",
+    "IP": "172.16.33.251",
+    "Last sync": "30-03-2026 06:05",
+    "Activated": "Activated",
+    "Device ID": "64",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Centrient Pharmaceuticals-3005170662",
+    "S/N": "4203-0540",
+    "IP": "172.16.32.198",
+    "Last sync": "30-03-2026 07:59",
+    "Activated": "Activated",
+    "Device ID": "119",
+    "System": "PC 4"
+  },
+  {
+    "Name": "AMIT BANSAL-3002960391",
+    "S/N": "4203-4020",
+    "IP": "172.16.32.252",
+    "Last sync": "30-03-2026 08:00",
+    "Activated": "Activated",
+    "Device ID": "128",
+    "System": "PC 4"
+  },
+  {
+    "Name": "NEERAJ DHIMJA-3002956632",
+    "S/N": "4203-6234",
+    "IP": "172.16.33.207",
+    "Last sync": "30-03-2026 08:00",
+    "Activated": "Activated",
+    "Device ID": "196",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SHIVA ALLOYS CASTINGS-3008917497",
+    "S/N": "4203-9148",
+    "IP": "172.16.35.32",
+    "Last sync": "30-03-2026 08:00",
+    "Activated": "Activated",
+    "Device ID": "173",
+    "System": "PC 4"
+  },
+  {
+    "Name": "BHARAT BHUSHAN-3002958427",
+    "S/N": "4202-7395",
+    "IP": "172.16.33.13",
+    "Last sync": "30-03-2026 08:00",
+    "Activated": "Activated",
+    "Device ID": "98",
+    "System": "PC 4"
+  },
+  {
+    "Name": "DASHMESH CASTING-U44LK0200043",
+    "S/N": "4203-3880",
+    "IP": "172.16.33.111",
+    "Last sync": "30-03-2026 08:05",
+    "Activated": "Activated",
+    "Device ID": "46",
+    "System": "PC 4"
+  },
+  {
+    "Name": "DHIMAN INDUSTRIES3002309602",
+    "S/N": "4203-3965",
+    "IP": "172.16.33.32",
+    "Last sync": "30-03-2026 08:05",
+    "Activated": "Activated",
+    "Device ID": "57",
+    "System": "PC 4"
+  },
+  {
+    "Name": "SHUBHKARMAN ALLOYS- 3007806702",
+    "S/N": "4203-9915",
+    "IP": "172.16.35.48",
+    "Last sync": "30-03-2026 08:05",
+    "Activated": "Activated",
+    "Device ID": "177",
+    "System": "PC 4"
+  },
+  {
+    "Name": "Bhawani Industries-3002309510",
+    "S/N": "4203-2394",
+    "IP": "172.16.32.220",
+    "Last sync": "30-03-2026 08:21",
+    "Activated": "Activated",
+    "Device ID": "108",
+    "System": "PC 4"
+  },
+  {
+    "Name": "GEETA JAIN-3002957997",
+    "S/N": "4202-4604",
+    "IP": "172.16.33.41",
+    "Last sync": "25-12-2024 12:03",
+    "Activated": "Activated",
+    "Device ID": "2",
+    "System": "PC 5"
+  },
+  {
+    "Name": "JYOTI JAIN -3004790155",
+    "S/N": "4203-1076",
+    "IP": "172.16.33.63",
+    "Last sync": "28-12-2024 07:46",
+    "Activated": "Activated",
+    "Device ID": "11",
+    "System": "PC 5"
+  },
+  {
+    "Name": "OMAXE NOVELITY PLAZA-3003179759",
+    "S/N": "4202-7388",
+    "IP": "172.16.33.46",
+    "Last sync": "09-06-2025 11:41",
+    "Activated": "Activated",
+    "Device ID": "28",
+    "System": "PC 5"
+  },
+  {
+    "Name": "JN Tayal 4202 1668",
+    "S/N": "4202-1668",
+    "IP": "172.16.32.69",
+    "Last sync": "23-06-2025 15:31",
+    "Activated": "Activated",
+    "Device ID": "43",
+    "System": "PC 5"
+  },
+  {
+    "Name": "KARISHAN KUMAR -3000855360",
+    "S/N": "4203-8451",
+    "IP": "172.16.35.61",
+    "Last sync": "26-07-2025 13:06",
+    "Activated": "Activated",
+    "Device ID": "64",
+    "System": "PC 5"
+  },
+  {
+    "Name": "HIGHWAY INDUST0RIES LTD-3002811655",
+    "S/N": "4203-2393",
+    "IP": "172.16.33.25",
+    "Last sync": "05-10-2025 04:59",
+    "Activated": "Activated",
+    "Device ID": "3",
+    "System": "PC 5"
+  },
+  {
+    "Name": "FITEX INDUSTRIES-3003018240",
+    "S/N": "4203-9925",
+    "IP": "172.16.33.161",
+    "Last sync": "01-12-2025 00:00",
+    "Activated": "Activated",
+    "Device ID": "103",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Toolman Inuds U-1-5648-3003018445",
+    "S/N": "4202-5648",
+    "IP": "172.16.32.88",
+    "Last sync": "08-12-2025 03:04",
+    "Activated": "Activated",
+    "Device ID": "46",
+    "System": "PC 5"
+  },
+  {
+    "Name": "DURO INIPEX - R74KR0200218",
+    "S/N": "4204-4393",
+    "IP": "172.16.35.141",
+    "Last sync": "18-12-2025 17:31",
+    "Activated": "Activated",
+    "Device ID": "143",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RB GEARS PVT LTD-3007509633",
+    "S/N": "4203-3820",
+    "IP": "172.16.33.62",
+    "Last sync": "19-12-2025 05:30",
+    "Activated": "Activated",
+    "Device ID": "32",
+    "System": "PC 5"
+  },
+  {
+    "Name": "MANSONS SUSPENSIONS LLP- 3008533100",
+    "S/N": "4203-6523",
+    "IP": "172.16.33.182",
+    "Last sync": "21-01-2026 03:10",
+    "Activated": "Activated",
+    "Device ID": "63",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Goyal Malleable- K52SS0100047",
+    "S/N": "4202-5368",
+    "IP": "172.16.35.128",
+    "Last sync": "23-01-2026 12:48",
+    "Activated": "Deactivated",
+    "Device ID": "51",
+    "System": "PC 5"
+  },
+  {
+    "Name": "TURBO INDS PVT LTD -3003018014",
+    "S/N": "4202-5760",
+    "IP": "172.16.32.216",
+    "Last sync": "26-01-2026 07:53",
+    "Activated": "Activated",
+    "Device ID": "139",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Steel Tech Alloys 3002309644",
+    "S/N": "4202-1308",
+    "IP": "172.16.32.20",
+    "Last sync": "12-02-2026 02:59",
+    "Activated": "Activated",
+    "Device ID": "53",
+    "System": "PC 5"
+  },
+  {
+    "Name": "GODAWRI SPHEROCAST PVT LTD - Z22-HD01-00066",
+    "S/N": "4204-1446",
+    "IP": "172.16.35.160",
+    "Last sync": "12-02-2026 18:29",
+    "Activated": "Activated",
+    "Device ID": "159",
+    "System": "PC 5"
+  },
+  {
+    "Name": "BAJAJ SONS PVT LTD LDH-V - 3002809478",
+    "S/N": "4202-5526",
+    "IP": "172.16.32.188",
+    "Last sync": "13-02-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "112",
+    "System": "PC 5"
+  },
+  {
+    "Name": "BLUESKY NRG PVT LTD",
+    "S/N": "4204-4625",
+    "IP": "172.16.35.149",
+    "Last sync": "13-02-2026 00:30",
+    "Activated": "Activated",
+    "Device ID": "154",
+    "System": "PC 5"
+  },
+  {
+    "Name": "GOYAL MANUFACTURING COMPANY-3004923187",
+    "S/N": "4204-4626",
+    "IP": "172.16.35.172",
+    "Last sync": "13-02-2026 00:32",
+    "Activated": "Activated",
+    "Device ID": "160",
+    "System": "PC 5"
+  },
+  {
+    "Name": "HERO CYCLES  - 3002809432",
+    "S/N": "4202-5545",
+    "IP": "172.16.32.185",
+    "Last sync": "13-02-2026 11:01",
+    "Activated": "Activated",
+    "Device ID": "114",
+    "System": "PC 5"
+  },
+  {
+    "Name": "OASIS ENTERPRISES 4204-4694",
+    "S/N": "4204-4694",
+    "IP": "172.16.32.156",
+    "Last sync": "18-02-2026 11:53",
+    "Activated": "Activated",
+    "Device ID": "134",
+    "System": "PC 5"
+  },
+  {
+    "Name": "DAWN MOTORS PVT LTD - 3003018344",
+    "S/N": "4202-5870",
+    "IP": "172.16.32.72",
+    "Last sync": "26-02-2026 18:22",
+    "Activated": "Activated",
+    "Device ID": "83",
+    "System": "PC 5"
+  },
+  {
+    "Name": "HAMIDI EXPORTS-R74KR0200164800",
+    "S/N": "4203-4441",
+    "IP": "172.16.33.43",
+    "Last sync": "02-03-2026 06:22",
+    "Activated": "Activated",
+    "Device ID": "8",
+    "System": "PC 5"
+  },
+  {
+    "Name": "B.D WIRE & ALLIED INDUSTRIES - 3008641082",
+    "S/N": "4203-6055",
+    "IP": "172.16.35.156",
+    "Last sync": "02-03-2026 10:01",
+    "Activated": "Activated",
+    "Device ID": "156",
+    "System": "PC 5"
+  },
+  {
+    "Name": "M/S  Shri Swamiji Impex Pvt ltd - 3003018388",
+    "S/N": "4202-5753",
+    "IP": "172.16.33.12",
+    "Last sync": "02-03-2026 10:02",
+    "Activated": "Activated",
+    "Device ID": "84",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Suresh Kumar FP LDH 4202-5865",
+    "S/N": "4202-5865",
+    "IP": "172.16.32.80",
+    "Last sync": "03-03-2026 14:55",
+    "Activated": "Activated",
+    "Device ID": "45",
+    "System": "PC 5"
+  },
+  {
+    "Name": "MAHALUXMI ALLOYS - 4204-2771",
+    "S/N": "4204-2771",
+    "IP": "172.16.35.179",
+    "Last sync": "06-03-2026 07:45",
+    "Activated": "Deactivated",
+    "Device ID": "164",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Akhilesh Chauhan - 3008154466",
+    "S/N": "4203-3818",
+    "IP": "172.16.33.119",
+    "Last sync": "08-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "86",
+    "System": "PC 5"
+  },
+  {
+    "Name": "ROMANA ALBEL SINGH - 3007986864",
+    "S/N": "4204-6407",
+    "IP": "172.16.32.83",
+    "Last sync": "13-03-2026 15:00",
+    "Activated": "Activated",
+    "Device ID": "174",
+    "System": "PC 5"
+  },
+  {
+    "Name": "KARAMJIT KAUR-Shivam Mech 3005907462",
+    "S/N": "4202-8387",
+    "IP": "172.16.32.231",
+    "Last sync": "22-03-2026 10:33",
+    "Activated": "Activated",
+    "Device ID": "94",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Toolman Indus U-6-5649 3006989168",
+    "S/N": "4202-5649",
+    "IP": "172.16.32.91",
+    "Last sync": "15-03-2026 03:01",
+    "Activated": "Activated",
+    "Device ID": "49",
+    "System": "PC 5"
+  },
+  {
+    "Name": "JAGDAMBAY FURNACES PVT LTD UNIT II-3005214235",
+    "S/N": "4203-4480",
+    "IP": "172.16.33.57",
+    "Last sync": "16-03-2026 04:49",
+    "Activated": "Activated",
+    "Device ID": "6",
+    "System": "PC 5"
+  },
+  {
+    "Name": "MICROSTEEL CASTINGS-3007583552",
+    "S/N": "4203-4016",
+    "IP": "172.16.33.37",
+    "Last sync": "16-03-2026 11:01",
+    "Activated": "Activated",
+    "Device ID": "16",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RENNY STRIPS PVT LTD",
+    "S/N": "4204-2131",
+    "IP": "172.16.35.159",
+    "Last sync": "16-03-2026 13:58",
+    "Activated": "Activated",
+    "Device ID": "158",
+    "System": "PC 5"
+  },
+  {
+    "Name": "AJAY INDUSTRIES-3008890349",
+    "S/N": "4204-1482",
+    "IP": "172.16.32.249",
+    "Last sync": "16-03-2026 15:18",
+    "Activated": "Activated",
+    "Device ID": "107",
+    "System": "PC 5"
+  },
+  {
+    "Name": "ANAND CRANKS - 3002810135",
+    "S/N": "4203-3281",
+    "IP": "172.16.35.142",
+    "Last sync": "19-03-2026 17:30",
+    "Activated": "Activated",
+    "Device ID": "145",
+    "System": "PC 5"
+  },
+  {
+    "Name": "BHAGAT FORGING - 3003018433",
+    "S/N": "4203-3132",
+    "IP": "172.16.33.11",
+    "Last sync": "23-03-2026 03:01",
+    "Activated": "Activated",
+    "Device ID": "88",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Somik Enterprises 3005043596",
+    "S/N": "4202-6103",
+    "IP": "172.16.32.136",
+    "Last sync": "23-03-2026 14:52",
+    "Activated": "Activated",
+    "Device ID": "79",
+    "System": "PC 5"
+  },
+  {
+    "Name": "PARAMOUNTS CHILL ROLLS PVT LTD - L38KK0100014",
+    "S/N": "4204-4390",
+    "IP": "172.16.35.147",
+    "Last sync": "27-03-2026 08:05",
+    "Activated": "Activated",
+    "Device ID": "150",
+    "System": "PC 5"
+  },
+  {
+    "Name": "VISHAL SHARMA- 3005084704",
+    "S/N": "4203-9150",
+    "IP": "172.16.35.64",
+    "Last sync": "26-03-2026 03:02",
+    "Activated": "Activated",
+    "Device ID": "54",
+    "System": "PC 5"
+  },
+  {
+    "Name": "REGAL ALLOYS-3002309799",
+    "S/N": "4203-3334",
+    "IP": "172.16.33.67",
+    "Last sync": "26-03-2026 03:11",
+    "Activated": "Activated",
+    "Device ID": "25",
+    "System": "PC 5"
+  },
+  {
+    "Name": "GARG FORGE PVT LTD- R74KR0200319",
+    "S/N": "4203-4141",
+    "IP": "172.16.35.33",
+    "Last sync": "27-03-2026 11:16",
+    "Activated": "Activated",
+    "Device ID": "62",
+    "System": "PC 5"
+  },
+  {
+    "Name": "DANG SPECIAL STEELS PVT LTD - 30090991772",
+    "S/N": "4204-4386",
+    "IP": "172.16.35.182",
+    "Last sync": "27-03-2026 11:16",
+    "Activated": "Activated",
+    "Device ID": "166",
+    "System": "PC 5"
+  },
+  {
+    "Name": "YOGESH SHARMA - 3004710501",
+    "S/N": "4204-2500",
+    "IP": "172.16.33.227",
+    "Last sync": "27-03-2026 11:22",
+    "Activated": "Activated",
+    "Device ID": "115",
+    "System": "PC 5"
+  },
+  {
+    "Name": "DEPUTY CEE PS RCF KAPURTHALA - POA_LT01_RCF",
+    "S/N": "4203-7056",
+    "IP": "172.16.35.155",
+    "Last sync": "27-03-2026 15:50",
+    "Activated": "Activated",
+    "Device ID": "155",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RAM PRAVSH PRAJAPATI-3007756676",
+    "S/N": "4203-9897",
+    "IP": "172.16.35.115",
+    "Last sync": "27-03-2026 16:29",
+    "Activated": "Activated",
+    "Device ID": "68",
+    "System": "PC 5"
+  },
+  {
+    "Name": "TVA STAR STEEL PVT LTD - 3007691150",
+    "S/N": "4204-3286",
+    "IP": "172.16.35.129",
+    "Last sync": "27-03-2026 18:59",
+    "Activated": "Activated",
+    "Device ID": "135",
+    "System": "PC 5"
+  },
+  {
+    "Name": "LR KATYAR & SONS - 3008735667",
+    "S/N": "4204-1442",
+    "IP": "172.16.32.248",
+    "Last sync": "27-03-2026 23:59",
+    "Activated": "Activated",
+    "Device ID": "111",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RENNY STRIP-R72KK0100017",
+    "S/N": "4203-2388",
+    "IP": "172.16.32.222",
+    "Last sync": "28-03-2026 13:08",
+    "Activated": "Activated",
+    "Device ID": "59",
+    "System": "PC 5"
+  },
+  {
+    "Name": "NATURAL CASTING-K52SS0100022",
+    "S/N": "4203-3964",
+    "IP": "172.16.33.42",
+    "Last sync": "30-03-2026 12:15",
+    "Activated": "Activated",
+    "Device ID": "29",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SUVI SEWING MACHINES PVT LTD - U44LK0200072",
+    "S/N": "4204-3279",
+    "IP": "172.16.35.197",
+    "Last sync": "28-03-2026 12:07",
+    "Activated": "Activated",
+    "Device ID": "171",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SRV Steel U2-3006764256",
+    "S/N": "4202-4550",
+    "IP": "172.16.32.71",
+    "Last sync": "28-03-2026 12:10",
+    "Activated": "Activated",
+    "Device ID": "48",
+    "System": "PC 5"
+  },
+  {
+    "Name": "JAY THAKURJI MULTIMETAL-3005135983",
+    "S/N": "4203-4000",
+    "IP": "172.16.33.72",
+    "Last sync": "28-03-2026 12:58",
+    "Activated": "Activated",
+    "Device ID": "9",
+    "System": "PC 5"
+  },
+  {
+    "Name": "PEARL TEXTILES-3008091810",
+    "S/N": "4202-6093",
+    "IP": "172.16.33.30",
+    "Last sync": "30-03-2026 12:10",
+    "Activated": "Activated",
+    "Device ID": "26",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SHREE JEE ALLOYS - 3009001251",
+    "S/N": "4204-4594",
+    "IP": "172.16.35.180",
+    "Last sync": "28-03-2026 15:17",
+    "Activated": "Activated",
+    "Device ID": "165",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SR. DEE DHABH - P28KL0300001",
+    "S/N": "4203-7080",
+    "IP": "172.16.35.52",
+    "Last sync": "30-03-2026 12:08",
+    "Activated": "Activated",
+    "Device ID": "58",
+    "System": "PC 5"
+  },
+  {
+    "Name": "KUMAR AUTO-3002809460",
+    "S/N": "4203-3079",
+    "IP": "172.16.33.50",
+    "Last sync": "30-03-2026 12:00",
+    "Activated": "Activated",
+    "Device ID": "23",
+    "System": "PC 5"
+  },
+  {
+    "Name": "GURU NANAK FORGING PVT LTD-3007509606",
+    "S/N": "4203-3873",
+    "IP": "172.16.33.64",
+    "Last sync": "29-03-2026 07:21",
+    "Activated": "Activated",
+    "Device ID": "1",
+    "System": "PC 5"
+  },
+  {
+    "Name": "M.S INDUSTRIES - 3009179015",
+    "S/N": "4204-4392",
+    "IP": "172.16.35.130",
+    "Last sync": "30-03-2026 11:36",
+    "Activated": "Activated",
+    "Device ID": "173",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Aarti steel international bhodi wal - 4204-4612",
+    "S/N": "4204-4612",
+    "IP": "172.16.35.133",
+    "Last sync": "29-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "175",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RGS INFRA AND ENGINEERING LTD - 4204-4691",
+    "S/N": "4204-4691",
+    "IP": "172.16.35.178",
+    "Last sync": "29-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "163",
+    "System": "PC 5"
+  },
+  {
+    "Name": "ASR INTERNATIONAL - 3005070242",
+    "S/N": "4204-1445",
+    "IP": "172.16.35.195",
+    "Last sync": "29-03-2026 10:11",
+    "Activated": "Activated",
+    "Device ID": "169",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Rajinder Kumar-3002955046",
+    "S/N": "4203-0412",
+    "IP": "172.16.32.232",
+    "Last sync": "30-03-2026 12:12",
+    "Activated": "Activated",
+    "Device ID": "95",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SATISH KUMAR- 3002958560",
+    "S/N": "4202-6079",
+    "IP": "172.16.35.56",
+    "Last sync": "29-03-2026 03:02",
+    "Activated": "Activated",
+    "Device ID": "66",
+    "System": "PC 5"
+  },
+  {
+    "Name": "INDUCTION ENGINEERING & FOUNDRY WOR-3003018058",
+    "S/N": "4202-6116",
+    "IP": "172.16.33.34",
+    "Last sync": "29-03-2026 03:02",
+    "Activated": "Activated",
+    "Device ID": "4",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SBJ ALLOYS - LS010005",
+    "S/N": "4202-5652",
+    "IP": "172.16.32.138",
+    "Last sync": "30-03-2026 04:16",
+    "Activated": "Activated",
+    "Device ID": "137",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RAMJI CONCAST-3005043411",
+    "S/N": "4203-3333",
+    "IP": "172.16.33.69",
+    "Last sync": "30-03-2026 12:04",
+    "Activated": "Activated",
+    "Device ID": "57",
+    "System": "PC 5"
+  },
+  {
+    "Name": "DIVINE BRIGHT STEELS-3008976156",
+    "S/N": "4203-9896",
+    "IP": "172.16.32.139",
+    "Last sync": "30-03-2026 12:12",
+    "Activated": "Activated",
+    "Device ID": "98",
+    "System": "PC 5"
+  },
+  {
+    "Name": "ANGREJ SIHGH-3003236668",
+    "S/N": "4204-0263",
+    "IP": "172.16.35.3",
+    "Last sync": "30-03-2026 12:04",
+    "Activated": "Activated",
+    "Device ID": "116",
+    "System": "PC 5"
+  },
+  {
+    "Name": "DELUX INDUSTRIES-3002901722",
+    "S/N": "4204-2494",
+    "IP": "172.16.32.117",
+    "Last sync": "29-03-2026 07:59",
+    "Activated": "Activated",
+    "Device ID": "97",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RAJESH KUMAR S/O RAMESH KUMAR - 3002901595",
+    "S/N": "4204-4391",
+    "IP": "172.16.35.148",
+    "Last sync": "30-03-2026 11:47",
+    "Activated": "Activated",
+    "Device ID": "151",
+    "System": "PC 5"
+  },
+  {
+    "Name": "ANANTVIR AUTOCAST-3008457927",
+    "S/N": "4204-2860",
+    "IP": "172.16.33.102",
+    "Last sync": "29-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "90",
+    "System": "PC 5"
+  },
+  {
+    "Name": "GURVINDER SINGH-3002458147",
+    "S/N": "4204-3092",
+    "IP": "172.16.33.222",
+    "Last sync": "29-03-2026 10:01",
+    "Activated": "Activated",
+    "Device ID": "104",
+    "System": "PC 5"
+  },
+  {
+    "Name": "ACME STEELS AND WIRES-R74KR0100262",
+    "S/N": "4204-1541",
+    "IP": "172.16.35.181",
+    "Last sync": "29-03-2026 10:02",
+    "Activated": "Activated",
+    "Device ID": "167",
+    "System": "PC 5"
+  },
+  {
+    "Name": "KUSUM GOYAL-3002808693",
+    "S/N": "4203-3337",
+    "IP": "172.16.32.243",
+    "Last sync": "30-03-2026 12:13",
+    "Activated": "Activated",
+    "Device ID": "82",
+    "System": "PC 5"
+  },
+  {
+    "Name": "HAPPY METFORGE THROUGH - 3009133884",
+    "S/N": "4204-3281",
+    "IP": "172.16.35.131",
+    "Last sync": "29-03-2026 12:30",
+    "Activated": "Activated",
+    "Device ID": "136",
+    "System": "PC 5"
+  },
+  {
+    "Name": "NANDISH ALLOYS LTD - 3002809434",
+    "S/N": "4203-3332",
+    "IP": "172.16.35.157",
+    "Last sync": "29-03-2026 23:12",
+    "Activated": "Activated",
+    "Device ID": "157",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RR Industry-3000159621",
+    "S/N": "4203-3853",
+    "IP": "172.16.33.39",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "31",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SONE SOLAR PVT LTD - 4203-8605",
+    "S/N": "4203-8605",
+    "IP": "172.16.35.174",
+    "Last sync": "30-03-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "161",
+    "System": "PC 5"
+  },
+  {
+    "Name": "KD TECHNOCAST PVT LTD- 3005828621",
+    "S/N": "4203-0410",
+    "IP": "172.16.33.35",
+    "Last sync": "30-03-2026 00:05",
+    "Activated": "Activated",
+    "Device ID": "21",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SUMANLATA-3000244252",
+    "S/N": "4203-1089",
+    "IP": "172.16.33.40",
+    "Last sync": "30-03-2026 00:05",
+    "Activated": "Activated",
+    "Device ID": "36",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Souvinor International 3003018274",
+    "S/N": "4202-1345",
+    "IP": "172.16.32.37",
+    "Last sync": "30-03-2026 02:59",
+    "Activated": "Activated",
+    "Device ID": "47",
+    "System": "PC 5"
+  },
+  {
+    "Name": "AVINASH MULTICASTING-3003018431",
+    "S/N": "4203-0993",
+    "IP": "172.16.33.120",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "85",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RAJINDER PAL-3002309288",
+    "S/N": "4203-3148",
+    "IP": "172.16.33.36",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "30",
+    "System": "PC 5"
+  },
+  {
+    "Name": "LAXMI CAST & FORGE-3002810354",
+    "S/N": "4203-4022",
+    "IP": "172.16.33.53",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "17",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SS INDUSTRIES-3008438521",
+    "S/N": "4204-0943",
+    "IP": "172.16.32.201",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "81",
+    "System": "PC 5"
+  },
+  {
+    "Name": "TECH AUTO PRIVATE LIMITED-3002808931",
+    "S/N": "4203-3996",
+    "IP": "172.16.33.54",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "40",
+    "System": "PC 5"
+  },
+  {
+    "Name": "JMK INDUSTRIES-K52SS0100063",
+    "S/N": "4203-3955",
+    "IP": "172.16.33.47",
+    "Last sync": "30-03-2026 03:00",
+    "Activated": "Activated",
+    "Device ID": "12",
+    "System": "PC 5"
+  },
+  {
+    "Name": "JAGDEEP MACHINES - 3008770530",
+    "S/N": "4204-4681",
+    "IP": "172.16.35.177",
+    "Last sync": "30-03-2026 03:01",
+    "Activated": "Activated",
+    "Device ID": "162",
+    "System": "PC 5"
+  },
+  {
+    "Name": "MANOJ KUMAR-3008158885",
+    "S/N": "4202-6094",
+    "IP": "172.16.33.45",
+    "Last sync": "30-03-2026 03:01",
+    "Activated": "Activated",
+    "Device ID": "19",
+    "System": "PC 5"
+  },
+  {
+    "Name": "PRIYANKA SHARMA - 3009004235",
+    "S/N": "4204-1480",
+    "IP": "172.16.35.196",
+    "Last sync": "30-03-2026 03:02",
+    "Activated": "Activated",
+    "Device ID": "170",
+    "System": "PC 5"
+  },
+  {
+    "Name": "MANOJ KUMAR AGGARWAL-3005673901",
+    "S/N": "4203-0439",
+    "IP": "172.16.33.59",
+    "Last sync": "30-03-2026 03:04",
+    "Activated": "Activated",
+    "Device ID": "14",
+    "System": "PC 5"
+  },
+  {
+    "Name": "JVR FORGINGS-3003018237",
+    "S/N": "4203-3149",
+    "IP": "172.16.33.65",
+    "Last sync": "30-03-2026 03:04",
+    "Activated": "Activated",
+    "Device ID": "5",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SHAKTI INDUS - 3002810192",
+    "S/N": "4203-4750",
+    "IP": "172.16.35.143",
+    "Last sync": "30-03-2026 03:05",
+    "Activated": "Activated",
+    "Device ID": "146",
+    "System": "PC 5"
+  },
+  {
+    "Name": "JATIN DHAWAN-3005012625",
+    "S/N": "4203-0414",
+    "IP": "172.16.32.192",
+    "Last sync": "30-03-2026 03:08",
+    "Activated": "Activated",
+    "Device ID": "89",
+    "System": "PC 5"
+  },
+  {
+    "Name": "KANGAROO INDUS-3003018338",
+    "S/N": "4202-4546",
+    "IP": "172.16.32.103",
+    "Last sync": "30-03-2026 03:08",
+    "Activated": "Activated",
+    "Device ID": "96",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Oasis Enterprises 3002309519",
+    "S/N": "4202-4070",
+    "IP": "172.16.32.85",
+    "Last sync": "30-03-2026 03:08",
+    "Activated": "Activated",
+    "Device ID": "44",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SH. RAMESH CHAND-3002488791",
+    "S/N": "4204-0890",
+    "IP": "172.16.35.124",
+    "Last sync": "30-03-2026 03:09",
+    "Activated": "Activated",
+    "Device ID": "67",
+    "System": "PC 5"
+  },
+  {
+    "Name": "MAILYAN TECHNOCAST-R74KR0100292",
+    "S/N": "4203-3323",
+    "IP": "172.16.33.27",
+    "Last sync": "30-03-2026 03:09",
+    "Activated": "Activated",
+    "Device ID": "15",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Shiva Casting MGG 3002309779",
+    "S/N": "4202-2219",
+    "IP": "172.16.32.23",
+    "Last sync": "30-03-2026 03:09",
+    "Activated": "Activated",
+    "Device ID": "52",
+    "System": "PC 5"
+  },
+  {
+    "Name": "Happy Steel P Ltd Kanganwal-3003018005",
+    "S/N": "4202-4655",
+    "IP": "172.16.32.128",
+    "Last sync": "30-03-2026 03:10",
+    "Activated": "Activated",
+    "Device ID": "60",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RESILIENT BRAKES PVT LDT - 3008090334",
+    "S/N": "4203-1044",
+    "IP": "172.16.33.78",
+    "Last sync": "30-03-2026 03:14",
+    "Activated": "Activated",
+    "Device ID": "91",
+    "System": "PC 5"
+  },
+  {
+    "Name": "LORD MAHAVEER INDUSTRIES-3002309636",
+    "S/N": "4203-3959",
+    "IP": "172.16.33.49",
+    "Last sync": "30-03-2026 03:14",
+    "Activated": "Activated",
+    "Device ID": "18",
+    "System": "PC 5"
+  },
+  {
+    "Name": "M/S SARBJIT SINGH-3002802039",
+    "S/N": "4202-8572",
+    "IP": "172.16.33.121",
+    "Last sync": "30-03-2026 03:14",
+    "Activated": "Activated",
+    "Device ID": "71",
+    "System": "PC 5"
+  },
+  {
+    "Name": "GOLDEN AUTOS -3003018208",
+    "S/N": "4204-2142",
+    "IP": "172.16.32.118",
+    "Last sync": "30-03-2026 03:16",
+    "Activated": "Activated",
+    "Device ID": "100",
+    "System": "PC 5"
+  },
+  {
+    "Name": "U B STEEL CAST - 3008799403",
+    "S/N": "4203-7087",
+    "IP": "172.16.33.223",
+    "Last sync": "30-03-2026 03:16",
+    "Activated": "Activated",
+    "Device ID": "65",
+    "System": "PC 5"
+  },
+  {
+    "Name": "M/S MELIMAL WALITRAM TRADERS- 3008548714",
+    "S/N": "4203-3930",
+    "IP": "172.16.33.147",
+    "Last sync": "30-03-2026 03:24",
+    "Activated": "Activated",
+    "Device ID": "72",
+    "System": "PC 5"
+  },
+  {
+    "Name": "ONKAR MULTIMETALS AND ALLOYS-3005350144",
+    "S/N": "4203-1014",
+    "IP": "172.16.33.135",
+    "Last sync": "30-03-2026 03:24",
+    "Activated": "Activated",
+    "Device ID": "87",
+    "System": "PC 5"
+  },
+  {
+    "Name": "R.B. FORGING PVT LTD-3007509617",
+    "S/N": "4203-3821",
+    "IP": "172.16.33.61",
+    "Last sync": "30-03-2026 03:24",
+    "Activated": "Activated",
+    "Device ID": "27",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SHIV SHAKTI CASTINGS PVT. LTD-3000855772",
+    "S/N": "4203-3317",
+    "IP": "172.16.33.58",
+    "Last sync": "30-03-2026 03:25",
+    "Activated": "Activated",
+    "Device ID": "38",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SAINI PRECISION CASTING-3002810162",
+    "S/N": "4203-3329",
+    "IP": "172.16.33.52",
+    "Last sync": "30-03-2026 03:26",
+    "Activated": "Activated",
+    "Device ID": "37",
+    "System": "PC 5"
+  },
+  {
+    "Name": "INSTITUTE OF AUTO PARTS-3002809952",
+    "S/N": "4203-4041",
+    "IP": "172.16.32.99",
+    "Last sync": "30-03-2026 03:42",
+    "Activated": "Activated",
+    "Device ID": "74",
+    "System": "PC 5"
+  },
+  {
+    "Name": "J.B. INDUSTRIES-3002309179",
+    "S/N": "4203-1039",
+    "IP": "172.16.33.48",
+    "Last sync": "30-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "7",
+    "System": "PC 5"
+  },
+  {
+    "Name": "TECH AUTO PVT LTD-30028009016",
+    "S/N": "4203-3997",
+    "IP": "172.16.33.56",
+    "Last sync": "30-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "42",
+    "System": "PC 5"
+  },
+  {
+    "Name": "KUMAR EXPORTS INDUSTRIES P LTD-3008156469",
+    "S/N": "4203-0176",
+    "IP": "172.16.33.16",
+    "Last sync": "30-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "69",
+    "System": "PC 5"
+  },
+  {
+    "Name": "ALLIED RECYCLING - R74KR0100052",
+    "S/N": "4203-2034",
+    "IP": "172.16.32.218",
+    "Last sync": "30-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "77",
+    "System": "PC 5"
+  },
+  {
+    "Name": "MODREN CONCAST - K52SS0100078",
+    "S/N": "4202-7393",
+    "IP": "172.16.32.145",
+    "Last sync": "30-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "105",
+    "System": "PC 5"
+  },
+  {
+    "Name": "HIMANSHU SOOD-3003200652",
+    "S/N": "4203-4738",
+    "IP": "172.16.33.162",
+    "Last sync": "30-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "138",
+    "System": "PC 5"
+  },
+  {
+    "Name": "KAY KAY FORGINGS UNIT-III-3003018147",
+    "S/N": "4202-5864",
+    "IP": "172.16.33.33",
+    "Last sync": "30-03-2026 06:00",
+    "Activated": "Activated",
+    "Device ID": "20",
+    "System": "PC 5"
+  },
+  {
+    "Name": "M/S  PABLA BEARINGS LTD-U43LK0300013",
+    "S/N": "4203-3858",
+    "IP": "172.16.33.31",
+    "Last sync": "30-03-2026 06:01",
+    "Activated": "Activated",
+    "Device ID": "13",
+    "System": "PC 5"
+  },
+  {
+    "Name": "JAI PARVATI FORGE LTD UNIT 3- 3008423648",
+    "S/N": "4203-3909",
+    "IP": "172.16.33.71",
+    "Last sync": "30-03-2026 06:03",
+    "Activated": "Activated",
+    "Device ID": "10",
+    "System": "PC 5"
+  },
+  {
+    "Name": "KAY ELL DEE METALIKS PVT LTD-3007925630",
+    "S/N": "4203-1078",
+    "IP": "172.16.33.26",
+    "Last sync": "30-03-2026 06:07",
+    "Activated": "Activated",
+    "Device ID": "22",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SAMCAST TECHNKS-K52SS0100041",
+    "S/N": "4203-3956",
+    "IP": "172.16.33.44",
+    "Last sync": "30-03-2026 06:08",
+    "Activated": "Activated",
+    "Device ID": "35",
+    "System": "PC 5"
+  },
+  {
+    "Name": "NEELKHANTH MULTIMETALS-3005660007",
+    "S/N": "4203-3311",
+    "IP": "172.16.33.23",
+    "Last sync": "30-03-2026 06:08",
+    "Activated": "Activated",
+    "Device ID": "33",
+    "System": "PC 5"
+  },
+  {
+    "Name": "HANSCO IRON STEEL PVT LTD - 3002309530",
+    "S/N": "4202-4545",
+    "IP": "172.16.32.77",
+    "Last sync": "30-03-2026 06:23",
+    "Activated": "Activated",
+    "Device ID": "122",
+    "System": "PC 5"
+  },
+  {
+    "Name": "OSHO TOOLS PVT LTD - R74KR0100023",
+    "S/N": "4204-1542",
+    "IP": "172.16.32.254",
+    "Last sync": "30-03-2026 08:29",
+    "Activated": "Activated",
+    "Device ID": "109",
+    "System": "PC 5"
+  },
+  {
+    "Name": "VERMA MANUFACTURER-3002488770",
+    "S/N": "4204-2502",
+    "IP": "172.16.35.83",
+    "Last sync": "30-03-2026 09:02",
+    "Activated": "Activated",
+    "Device ID": "126",
+    "System": "PC 5"
+  },
+  {
+    "Name": "KARAM STEELS INDUSTRIES - K52SS0100088",
+    "S/N": "4204-4715",
+    "IP": "172.16.35.158",
+    "Last sync": "30-03-2026 09:08",
+    "Activated": "Activated",
+    "Device ID": "168",
+    "System": "PC 5"
+  },
+  {
+    "Name": "PS Alloys & Metals 3005608817",
+    "S/N": "4202-7386",
+    "IP": "172.16.32.176",
+    "Last sync": "30-03-2026 09:59",
+    "Activated": "Activated",
+    "Device ID": "124",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SHRI SHYAM STEEL & WIRE-3005042256",
+    "S/N": "4202-8573",
+    "IP": "172.16.33.94",
+    "Last sync": "30-03-2026 09:59",
+    "Activated": "Activated",
+    "Device ID": "129",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RP Multimetals 4202 0537",
+    "S/N": "4202-0537",
+    "IP": "172.16.32.21",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "50",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RAJINDRA FORGE PVT LTD- 3005765094",
+    "S/N": "4203-3285",
+    "IP": "172.16.33.156",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "102",
+    "System": "PC 5"
+  },
+  {
+    "Name": "TCG ALLOYS-3002309537",
+    "S/N": "4202-2218",
+    "IP": "172.16.32.7",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "123",
+    "System": "PC 5"
+  },
+  {
+    "Name": "WHEELS SCAFFOLDING-3007978505",
+    "S/N": "4203-1041",
+    "IP": "172.16.33.66",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "34",
+    "System": "PC 5"
+  },
+  {
+    "Name": "GHG TSS EARTH  4203-7053",
+    "S/N": "4203-7053",
+    "IP": "172.16.35.6",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "120",
+    "System": "PC 5"
+  },
+  {
+    "Name": "ARORA IRON STEEL DORAHA - 3007954257",
+    "S/N": "4202-4071",
+    "IP": "172.16.32.15",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "133",
+    "System": "PC 5"
+  },
+  {
+    "Name": "SAJAN CHAWLA - 3008632294",
+    "S/N": "4204-3280",
+    "IP": "172.16.35.198",
+    "Last sync": "30-03-2026 10:00",
+    "Activated": "Activated",
+    "Device ID": "172",
+    "System": "PC 5"
+  },
+  {
+    "Name": "GAUTAM KAPOOR-3007510015",
+    "S/N": "4204-1457",
+    "IP": "172.16.32.155",
+    "Last sync": "30-03-2026 10:01",
+    "Activated": "Activated",
+    "Device ID": "131",
+    "System": "PC 5"
+  },
+  {
+    "Name": "M/S   JAI STEEL INDUSTRIES-3008496078",
+    "S/N": "4203-2954",
+    "IP": "172.16.32.247",
+    "Last sync": "30-03-2026 10:01",
+    "Activated": "Activated",
+    "Device ID": "99",
+    "System": "PC 5"
+  },
+  {
+    "Name": "RESILIENT AUTOCOMP PVT LTD - 3005674754",
+    "S/N": "4203-1043",
+    "IP": "172.16.33.77",
+    "Last sync": "30-03-2026 10:01",
+    "Activated": "Activated",
+    "Device ID": "140",
+    "System": "PC 5"
+  },
+  {
+    "Name": "BHARAT CAST & FORGE-3008946151",
+    "S/N": "4204-3060",
+    "IP": "172.16.32.27",
+    "Last sync": "30-03-2026 10:03",
+    "Activated": "Activated",
+    "Device ID": "101",
+    "System": "PC 5"
+  },
+  {
+    "Name": "VARINDER KUMAR GARG-3002309225",
+    "S/N": "4203-1088",
+    "IP": "172.16.33.29",
+    "Last sync": "30-03-2026 10:03",
+    "Activated": "Activated",
+    "Device ID": "39",
+    "System": "PC 5"
+  },
+  {
+    "Name": "AGGARWAL SONS - 30028971449",
+    "S/N": "4204-0772",
+    "IP": "172.16.32.132",
+    "Last sync": "30-03-2026 10:03",
+    "Activated": "Activated",
+    "Device ID": "152",
+    "System": "PC 5"
+  },
+  {
+    "Name": "TRIKUTA ALLOY ROLLS-L36MS0100067",
+    "S/N": "4203-4759",
+    "IP": "172.16.33.68",
+    "Last sync": "30-03-2026 10:08",
+    "Activated": "Activated",
+    "Device ID": "41",
+    "System": "PC 5"
+  },
+  {
+    "Name": "BAJAJ SONS PVT LTD - 3002808927",
+    "S/N": "4202-5525",
+    "IP": "172.16.32.187",
+    "Last sync": "30-03-2026 10:08",
+    "Activated": "Activated",
+    "Device ID": "110",
+    "System": "PC 5"
+  },
+  {
+    "Name": "MM INDUSTRIES- 4203-7088",
+    "S/N": "4203-7088",
+    "IP": "172.16.32.114",
+    "Last sync": "30-03-2026 10:23",
+    "Activated": "Activated",
+    "Device ID": "128",
+    "System": "PC 5"
+  }
+]
