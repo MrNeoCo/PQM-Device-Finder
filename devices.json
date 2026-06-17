@@ -100,12 +100,12 @@
   },
   {
     "Name": "Goyal Malleable- K52SS0100047",
-    "S/N": "4202-5368",
-    "IP": "172.16.35.128",
-    "Last sync": "23-01-2026 12:48",
-    "Activated": "Deactivated",
-    "Device ID": "51",
-    "System": "PC 5"
+    "S/N": "172.16.35.128",
+    "IP": "4202-5368",
+    "Last sync": "30-05-2026 00:00",
+    "Activated": "Activated",
+    "Device ID": "175",
+    "System": "PC 3"
   },
   {
     "Name": "TURBO INDS PVT LTD -3003018014",
@@ -3273,15 +3273,6 @@
     "Last sync": "30-05-2026 00:00",
     "Activated": "Activated",
     "Device ID": "117",
-    "System": "PC 3"
-  },
-  {
-    "Name": "Goyal Malleable- K52SS0100047",
-    "S/N": "172.16.35.128",
-    "IP": "4202-5368",
-    "Last sync": "30-05-2026 00:00",
-    "Activated": "Activated",
-    "Device ID": "175",
     "System": "PC 3"
   },
   {
